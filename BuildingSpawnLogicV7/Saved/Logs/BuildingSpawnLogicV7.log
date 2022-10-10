@@ -1821,3 +1821,1675 @@ Make sure 'BP_Base_GM_C' has been compiled for  Spawn Players
 [2022.10.09-21.03.23:455][ 82]LogPlayLevel: Display: Destroying online subsystem :Context_18
 [2022.10.09-21.03.27:304][268]LogTurnkeySupport: Display: Adding device menu item for RJ-PC
 [2022.10.09-21.03.30:512][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.10.09-21.04.19:505][666]LogTurnkeySupport: Display: Adding device menu item for RJ-PC
+[2022.10.09-21.04.22:971][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.10.09-21.04.24:479][814]LogTurnkeySupport: Display: Adding device menu item for RJ-PC
+[2022.10.09-21.04.27:903][924]LogTurnkeySupport: Display: Adding device menu item for RJ-PC
+[2022.10.09-21.04.28:944][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.10.09-21.04.39:910][583]LogTurnkeySupport: Display: Adding device menu item for RJ-PC
+[2022.10.09-21.04.43:968][751]LogTurnkeySupport: Display: Adding device menu item for RJ-PC
+[2022.10.09-21.04.45:830][806]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.09-21.04.45:916][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.10.09-21.05.13:609][585]Cmd: DUPLICATE
+[2022.10.09-21.05.13:609][585]Cmd: ACTOR DUPLICATE
+[2022.10.09-21.05.13:629][585]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.09-21.05.15:196][662]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.09-21.05.20:122][933]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.09-21.05.24:652][215]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.09-21.05.28:288][417]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.09-21.05.35:339][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.10.09-21.05.35:639][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.10.09-21.05.35:807][654]LogSavePackage: Moving output files for package: /Game/Map3/Sunlight_Museum_TestSpawns
+[2022.10.09-21.05.35:883][654]LogFileManager: Warning: MoveFile was unable to move '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/Map3/Sunlight_Museum_TestSpawns.umap' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/Sunlight_Museum_TestSpawns3F1291EB48112F11DE97A6A9CE5B5C29.tmp' (Error Code 32), retrying in .5s...
+[2022.10.09-21.05.36:385][654]LogFileManager: Warning: MoveFile was unable to move '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/Map3/Sunlight_Museum_TestSpawns.umap' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/Sunlight_Museum_TestSpawns3F1291EB48112F11DE97A6A9CE5B5C29.tmp' (Error Code 32), retrying in .5s...
+[2022.10.09-21.05.36:885][654]LogFileManager: Warning: MoveFile was unable to move '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/Map3/Sunlight_Museum_TestSpawns.umap' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/Sunlight_Museum_TestSpawns3F1291EB48112F11DE97A6A9CE5B5C29.tmp' (Error Code 32), retrying in .5s...
+[2022.10.09-21.05.37:386][654]LogFileManager: Warning: MoveFile was unable to move '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/Map3/Sunlight_Museum_TestSpawns.umap' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/Sunlight_Museum_TestSpawns3F1291EB48112F11DE97A6A9CE5B5C29.tmp' (Error Code 32), retrying in .5s...
+[2022.10.09-21.05.37:886][654]LogFileManager: Warning: MoveFile was unable to move '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/Map3/Sunlight_Museum_TestSpawns.umap' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/Sunlight_Museum_TestSpawns3F1291EB48112F11DE97A6A9CE5B5C29.tmp' (Error Code 32), retrying in .5s...
+[2022.10.09-21.05.38:387][654]LogFileManager: Warning: MoveFile was unable to move '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/Map3/Sunlight_Museum_TestSpawns.umap' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/Sunlight_Museum_TestSpawns3F1291EB48112F11DE97A6A9CE5B5C29.tmp' (Error Code 32), retrying in .5s...
+[2022.10.09-21.05.38:888][654]LogFileManager: Warning: MoveFile was unable to move '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/Map3/Sunlight_Museum_TestSpawns.umap' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/Sunlight_Museum_TestSpawns3F1291EB48112F11DE97A6A9CE5B5C29.tmp' (Error Code 32), retrying in .5s...
+[2022.10.09-21.05.39:388][654]LogFileManager: Warning: MoveFile was unable to move '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/Map3/Sunlight_Museum_TestSpawns.umap' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/Sunlight_Museum_TestSpawns3F1291EB48112F11DE97A6A9CE5B5C29.tmp' (Error Code 32), retrying in .5s...
+[2022.10.09-21.05.39:889][654]LogFileManager: Warning: MoveFile was unable to move '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/Map3/Sunlight_Museum_TestSpawns.umap' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/Sunlight_Museum_TestSpawns3F1291EB48112F11DE97A6A9CE5B5C29.tmp' (Error Code 32), retrying in .5s...
+[2022.10.09-21.05.40:390][654]LogFileManager: Warning: MoveFile was unable to move '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/Map3/Sunlight_Museum_TestSpawns.umap' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/Sunlight_Museum_TestSpawns3F1291EB48112F11DE97A6A9CE5B5C29.tmp' (Error Code 32), retrying in .5s...
+[2022.10.09-21.05.40:941][654]LogFileManager: Error: Error moving file '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/Map3/Sunlight_Museum_TestSpawns.umap' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/Sunlight_Museum_TestSpawns3F1291EB48112F11DE97A6A9CE5B5C29.tmp'.
+[2022.10.09-21.05.40:958][654]LogSavePackage: Warning: Failed to move '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/Map3/Sunlight_Museum_TestSpawns.umap' to temp directory
+[2022.10.09-21.05.40:960][654]LogSavePackage: Error: Error saving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/Map3/Sunlight_Museum_TestSpawns.umap'
+[2022.10.09-21.05.41:072][654]EditorErrors: New page: Save Output
+[2022.10.09-21.05.41:133][654]EditorErrors: Warning: Error saving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/Map3/Sunlight_Museum_TestSpawns.umap'
+[2022.10.09-21.05.41:354][654]LogFileHelpers: Saving map 'Sunlight_Museum_TestSpawns' took 5.796
+[2022.10.09-21.05.51:385][654]LogSlate: Window 'Message' being destroyed
+[2022.10.09-21.05.51:433][654]Message dialog closed, result: Cancel, title: Message, text: The asset '/Game/Map3/Sunlight_Museum_TestSpawns' (Sunlight_Museum_TestSpawns.umap) cannot be saved as the package is locked because you are in play on PC mode.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2022.10.09-21.05.53:915][774]LogSlate: Window 'Message Log' being destroyed
+[2022.10.09-21.05.53:965][774]LogSlate: Window 'Message Log' being destroyed
+[2022.10.09-21.11.58:663][120]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.10.09-21.11.58:958][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.09-21.11.59:112][120]LogSavePackage: Moving output files for package: /Game/Map3/Sunlight_Museum_TestSpawns
+[2022.10.09-21.11.59:113][120]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/Sunlight_Museum_TestSpawns778039CE443606FB618C43B8015AA743.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/Map3/Sunlight_Museum_TestSpawns.umap'
+[2022.10.09-21.11.59:122][120]LogFileHelpers: No new changes to save!
+[2022.10.09-21.11.59:122][120]LogFileHelpers: Saving map 'Sunlight_Museum_TestSpawns' took 0.246
+[2022.10.09-21.11.59:188][120]AssetCheck: New page: Asset Save: Sunlight_Museum_TestSpawns
+[2022.10.09-21.11.59:188][120]LogContentValidation: Display: Validating World /Game/Map3/Sunlight_Museum_TestSpawns.Sunlight_Museum_TestSpawns
+[2022.10.09-21.12.03:756][204]LogTurnkeySupport: Display: Adding device menu item for RJ-PC
+[2022.10.09-21.12.05:575][259]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.09-21.12.05:652][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.10.09-21.13.03:892][562]LogTurnkeySupport: Display: Adding device menu item for RJ-PC
+[2022.10.09-21.13.07:731][674]LogTurnkeySupport: Display: Adding device menu item for RJ-PC
+[2022.10.09-21.13.11:340][774]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.09-21.13.11:420][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.10.09-21.14.27:310][484]LogTurnkeySupport: Display: Adding device menu item for RJ-PC
+[2022.10.09-21.14.31:423][705]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.09-21.14.31:501][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.10.09-21.18.00:321][591]Cmd: DUPLICATE
+[2022.10.09-21.18.00:321][591]Cmd: ACTOR DUPLICATE
+[2022.10.09-21.18.00:334][591]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.09-21.18.01:312][697]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.09-21.18.02:439][819]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.09-21.18.03:622][957]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.09-21.18.05:210][ 92]Cmd: DUPLICATE
+[2022.10.09-21.18.05:210][ 92]Cmd: ACTOR DUPLICATE
+[2022.10.09-21.18.05:235][ 92]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.09-21.18.06:565][218]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.09-21.18.07:557][325]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.09-21.18.07:931][366]Cmd: DUPLICATE
+[2022.10.09-21.18.07:931][366]Cmd: ACTOR DUPLICATE
+[2022.10.09-21.18.07:943][366]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.09-21.18.08:787][456]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.09-21.18.10:937][647]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.09-21.18.12:134][776]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.09-21.18.25:775][909]Cmd: DUPLICATE
+[2022.10.09-21.18.25:775][909]Cmd: ACTOR DUPLICATE
+[2022.10.09-21.18.25:787][909]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.09-21.18.27:312][ 39]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.09-21.18.29:928][332]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.09-21.18.30:821][434]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.09-21.18.36:422][ 24]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.09-21.18.38:628][284]Cmd: DELETE
+[2022.10.09-21.18.38:635][284]Cmd: ACTOR DELETE
+[2022.10.09-21.18.38:798][284]LogEditorActor: Deleted Actor: BP_ISS_SpawnPoint_C
+[2022.10.09-21.18.38:890][284]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.10.09-21.18.38:896][284]LogEditorActor: Deleted 1 Actors (0.209 secs)
+[2022.10.09-21.20.16:790][869]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2022.10.09-21.20.18:066][869]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.10.09-21.20.20:708][903]LogSavePackage: Moving output files for package: /Game/FPS/Blueprints/CharacterAndClasses/BP_PlayerCharacter
+[2022.10.09-21.20.20:708][903]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/BP_PlayerCharacterED9719744F2F969356438CA3CC0CD504.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/CharacterAndClasses/BP_PlayerCharacter.uasset'
+[2022.10.09-21.20.20:817][903]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2022.10.09-21.20.20:817][903]LogContentValidation: Display: Validating Blueprint /Game/FPS/Blueprints/CharacterAndClasses/BP_PlayerCharacter.BP_PlayerCharacter
+[2022.10.09-21.20.24:841][102]LogTurnkeySupport: Display: Adding device menu item for RJ-PC
+[2022.10.09-21.20.27:532][300]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.09-21.20.27:617][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.10.09-21.20.30:205][300]LogSlate: Window 'Save Content' being destroyed
+[2022.10.09-21.20.30:471][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FPS/Blueprints/GameModes/BP_Base_GM" FILE="../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GM.uasset" SILENT=true
+[2022.10.09-21.20.30:563][300]LogSavePackage: Moving output files for package: /Game/FPS/Blueprints/GameModes/BP_Base_GM
+[2022.10.09-21.20.30:563][300]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/BP_Base_GMA96933B0456C83B5B706A191C221DBDE.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GM.uasset'
+[2022.10.09-21.20.30:683][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.10.09-21.20.30:834][300]LogSavePackage: Moving output files for package: /Game/Map3/Sunlight_Museum_TestSpawns
+[2022.10.09-21.20.30:835][300]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/Sunlight_Museum_TestSpawns2985874B43ADE67C64C09984392B484F.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/Map3/Sunlight_Museum_TestSpawns.umap'
+[2022.10.09-21.20.30:844][300]LogFileHelpers: No new changes to save!
+[2022.10.09-21.20.30:844][300]LogFileHelpers: Saving map 'Sunlight_Museum_TestSpawns' took 0.279
+[2022.10.09-21.20.30:915][301]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.09-21.20.30:915][301]LogContentValidation: Display: Validating Blueprint /Game/FPS/Blueprints/GameModes/BP_Base_GM.BP_Base_GM
+[2022.10.09-21.20.30:915][301]LogContentValidation: Display: Validating World /Game/Map3/Sunlight_Museum_TestSpawns.Sunlight_Museum_TestSpawns
+[2022.10.09-21.24.26:914][359]LogDerivedDataCache: C:/Users/Rocco Jelsomeno/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.615 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.09-21.25.07:844][155]BlueprintLog: New page: Compile BP_Base_GM
+[2022.10.09-21.25.08:608][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.10.09-21.25.08:612][155]LogSkeletalMesh: Display: OnRegister[/Game/FPS/Gameplay/ConquestFlag/ConquestFlag.ConquestFlag]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2022.10.09-21.25.08:612][155]LogSkeletalMesh: Display: OnRegister[/Game/FPS/Gameplay/ConquestFlag/ConquestFlag.ConquestFlag]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2022.10.09-21.25.08:848][155]LogSkeletalMesh: Display: OnRegister[/Game/FPS/Gameplay/ConquestFlag/ConquestFlag.ConquestFlag]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2022.10.09-21.25.08:848][155]LogSkeletalMesh: Display: OnRegister[/Game/FPS/Gameplay/ConquestFlag/ConquestFlag.ConquestFlag]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2022.10.09-21.25.09:756][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FPS/Blueprints/GameModes/BP_Base_GM" FILE="../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GM.uasset" SILENT=true
+[2022.10.09-21.25.09:851][179]LogSavePackage: Moving output files for package: /Game/FPS/Blueprints/GameModes/BP_Base_GM
+[2022.10.09-21.25.09:851][179]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/BP_Base_GMFB5A15D74E72E5AF080FB7B1A4FCBAF0.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GM.uasset'
+[2022.10.09-21.25.09:905][179]AssetCheck: New page: Asset Save: BP_Base_GM
+[2022.10.09-21.25.09:905][179]LogContentValidation: Display: Validating Blueprint /Game/FPS/Blueprints/GameModes/BP_Base_GM.BP_Base_GM
+[2022.10.09-21.30.49:089][631]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.10.09-21.30.49:092][631]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map3/Sunlight_Museum_TestSpawns' took 0.098
+[2022.10.09-21.30.49:093][631]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FPS/Blueprints/GameModes/BP_Base_GS] ([2] browsable assets)...
+[2022.10.09-21.30.49:093][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS/Blueprints/GameModes/BP_Base_GS]
+[2022.10.09-21.30.49:128][631]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FPS/Blueprints/GameModes/BP_Base_GS_Auto2
+[2022.10.09-21.30.49:129][631]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/BP_Base_GS_Auto25049B3DF4DA509C03F70AA8B29975083.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/Autosaves/Game/FPS/Blueprints/GameModes/BP_Base_GS_Auto2.uasset'
+[2022.10.09-21.30.49:129][631]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FPS/Blueprints/GameModes/BP_Base_GM] ([2] browsable assets)...
+[2022.10.09-21.30.49:129][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS/Blueprints/GameModes/BP_Base_GM]
+[2022.10.09-21.30.49:224][631]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FPS/Blueprints/GameModes/BP_Base_GM_Auto2
+[2022.10.09-21.30.49:224][631]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/BP_Base_GM_Auto2D825EA554E9A97F99B581D8E46AA5EBA.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/Autosaves/Game/FPS/Blueprints/GameModes/BP_Base_GM_Auto2.uasset'
+[2022.10.09-21.30.49:225][631]LogFileHelpers: Auto-saving content packages took 0.132
+[2022.10.09-21.30.54:908][836]LogSlate: Window 'BP_Base_GM' being destroyed
+[2022.10.09-21.32.32:389][631]BlueprintLog: New page: Compile BP_Base_GM
+[2022.10.09-21.32.32:718][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.10.09-21.32.32:723][631]LogSkeletalMesh: Display: OnRegister[/Game/FPS/Gameplay/ConquestFlag/ConquestFlag.ConquestFlag]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2022.10.09-21.32.32:723][631]LogSkeletalMesh: Display: OnRegister[/Game/FPS/Gameplay/ConquestFlag/ConquestFlag.ConquestFlag]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2022.10.09-21.32.32:952][631]LogSkeletalMesh: Display: OnRegister[/Game/FPS/Gameplay/ConquestFlag/ConquestFlag.ConquestFlag]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2022.10.09-21.32.32:953][631]LogSkeletalMesh: Display: OnRegister[/Game/FPS/Gameplay/ConquestFlag/ConquestFlag.ConquestFlag]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2022.10.09-21.32.35:175][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FPS/Blueprints/GameModes/BP_Base_GM" FILE="../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GM.uasset" SILENT=true
+[2022.10.09-21.32.35:273][746]LogSavePackage: Moving output files for package: /Game/FPS/Blueprints/GameModes/BP_Base_GM
+[2022.10.09-21.32.35:273][746]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/BP_Base_GM336C13AF4ED4569F75DE6FA3F7BF29D5.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GM.uasset'
+[2022.10.09-21.32.35:430][746]AssetCheck: New page: Asset Save: BP_Base_GM
+[2022.10.09-21.32.35:430][746]LogContentValidation: Display: Validating Blueprint /Game/FPS/Blueprints/GameModes/BP_Base_GM.BP_Base_GM
+[2022.10.09-21.32.51:672][956]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.10.09-21.32.51:672][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.09-21.39.24:160][559]LogEditorTransaction: Undo Create Pin Link
+[2022.10.09-21.39.37:440][119]BlueprintLog: New page: Compile BP_Base_GS
+[2022.10.09-21.39.37:817][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.10.09-21.39.39:169][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FPS/Blueprints/GameModes/BP_Base_GS" FILE="../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GS.uasset" SILENT=true
+[2022.10.09-21.39.39:205][148]LogSavePackage: Moving output files for package: /Game/FPS/Blueprints/GameModes/BP_Base_GS
+[2022.10.09-21.39.39:206][148]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/BP_Base_GSB5BC9014492011AAED1DA9B3161A279A.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GS.uasset'
+[2022.10.09-21.39.39:324][148]AssetCheck: New page: Asset Save: BP_Base_GS
+[2022.10.09-21.39.39:324][148]LogContentValidation: Display: Validating Blueprint /Game/FPS/Blueprints/GameModes/BP_Base_GS.BP_Base_GS
+[2022.10.09-21.39.45:577][591]LogTurnkeySupport: Display: Adding device menu item for RJ-PC
+[2022.10.09-21.39.46:825][672]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.09-21.39.46:911][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.10.09-21.41.47:373][790]LogTurnkeySupport: Display: Adding device menu item for RJ-PC
+[2022.10.09-21.41.50:115][937]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.09-21.41.50:367][937]LogUObjectHash: Compacting FUObjectHashTables data took  60.88ms
+[2022.10.09-21.42.15:060][727]LogEditorViewport: Clicking Background
+[2022.10.09-21.42.17:171][863]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.09-21.42.17:291][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.10.09-21.42.17:336][865]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.09-21.42.17:506][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.10.09-21.45.32:063][503]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.09-21.45.32:756][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.10.09-21.45.34:402][503]LogSlate: Window 'Save Content' being destroyed
+[2022.10.09-21.45.34:677][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FPS/Blueprints/GameModes/BP_Base_GS" FILE="../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GS.uasset" SILENT=true
+[2022.10.09-21.45.34:713][503]LogSavePackage: Moving output files for package: /Game/FPS/Blueprints/GameModes/BP_Base_GS
+[2022.10.09-21.45.34:713][503]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/BP_Base_GS18ADF9574A49B87825C675940B4F497C.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GS.uasset'
+[2022.10.09-21.45.34:796][504]AssetCheck: New page: Asset Save: BP_Base_GS
+[2022.10.09-21.45.34:796][504]LogContentValidation: Display: Validating Blueprint /Game/FPS/Blueprints/GameModes/BP_Base_GS.BP_Base_GS
+[2022.10.09-21.47.10:204][332]LogSlate: Window 'BP_Base_GM' being destroyed
+[2022.10.09-21.51.47:160][739]BlueprintLog: New page: Compile BP_Base_GM
+[2022.10.09-21.51.48:308][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.10.09-21.51.49:419][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FPS/Blueprints/GameModes/BP_Base_GM" FILE="../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GM.uasset" SILENT=true
+[2022.10.09-21.51.49:524][788]LogSavePackage: Moving output files for package: /Game/FPS/Blueprints/GameModes/BP_Base_GM
+[2022.10.09-21.51.49:525][788]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/BP_Base_GMC8A8E31C4511094212089089158A5C6E.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GM.uasset'
+[2022.10.09-21.51.49:583][788]AssetCheck: New page: Asset Save: BP_Base_GM
+[2022.10.09-21.51.49:583][788]LogContentValidation: Display: Validating Blueprint /Game/FPS/Blueprints/GameModes/BP_Base_GM.BP_Base_GM
+[2022.10.09-21.53.53:366][960]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2022.10.09-21.53.53:789][960]LogBlueprint: Warning: [AssetLog] R:\SpanwLogicV7\TestV7\BuildingSpawnLogicV7\Content\FPS\Blueprints\CharacterAndClasses\BP_PlayerCharacter.uasset: [Compiler] 'BP Base GM' does not inherit from 'BP Player Character' ( Cast To BP_Base_GM  would always fail).
+[2022.10.09-21.53.54:308][960]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.10.09-21.56.09:886][  5]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2022.10.09-21.56.10:250][  5]LogBlueprint: Warning: [AssetLog] R:\SpanwLogicV7\TestV7\BuildingSpawnLogicV7\Content\FPS\Blueprints\CharacterAndClasses\BP_PlayerCharacter.uasset: [Compiler] 'BP Base GM' does not inherit from 'BP Player Character' ( Cast To BP_Base_GM  would always fail).
+[2022.10.09-21.56.10:357][  5]LogBlueprint: Error: [AssetLog] R:\SpanwLogicV7\TestV7\BuildingSpawnLogicV7\Content\FPS\Blueprints\CharacterAndClasses\BP_PlayerCharacter.uasset: [Compiler] This blueprint (self) is not a BP_Base_GM_C, therefore ' Target ' must have a connection.
+[2022.10.09-21.56.10:756][  5]LogUObjectHash: Compacting FUObjectHashTables data took  17.26ms
+[2022.10.09-21.56.28:282][701]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2022.10.09-21.56.28:673][701]LogBlueprint: Warning: [AssetLog] R:\SpanwLogicV7\TestV7\BuildingSpawnLogicV7\Content\FPS\Blueprints\CharacterAndClasses\BP_PlayerCharacter.uasset: [Compiler] 'BP Base GM' does not inherit from 'BP Player Character' ( Cast To BP_Base_GM  would always fail).
+[2022.10.09-21.56.29:207][701]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.10.09-21.57.26:139][ 82]LogEditorTransaction: Undo Move Node
+[2022.10.09-21.57.33:684][409]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2022.10.09-21.57.34:286][409]LogBlueprint: Error: [AssetLog] R:\SpanwLogicV7\TestV7\BuildingSpawnLogicV7\Content\FPS\Blueprints\CharacterAndClasses\BP_PlayerCharacter.uasset: [Compiler] This blueprint (self) is not a BP_Base_GM_C, therefore ' Target ' must have a connection.
+[2022.10.09-21.57.34:286][409]LogBlueprint: Error: [AssetLog] R:\SpanwLogicV7\TestV7\BuildingSpawnLogicV7\Content\FPS\Blueprints\CharacterAndClasses\BP_PlayerCharacter.uasset: [Compiler] This blueprint (self) is not a BP_Base_GM_C, therefore ' Target ' must have a connection.
+[2022.10.09-21.57.34:376][409]LogBlueprint: Error: [AssetLog] R:\SpanwLogicV7\TestV7\BuildingSpawnLogicV7\Content\FPS\Blueprints\CharacterAndClasses\BP_PlayerCharacter.uasset: [Compiler] Variable node  Get PlayerControllerOnRespawn  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2022.10.09-21.57.34:640][409]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.10.09-21.57.47:793][243]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2022.10.09-21.57.48:119][243]LogBlueprint: Error: [AssetLog] R:\SpanwLogicV7\TestV7\BuildingSpawnLogicV7\Content\FPS\Blueprints\CharacterAndClasses\BP_PlayerCharacter.uasset: [Compiler] This blueprint (self) is not a BP_Base_GM_C, therefore ' Target ' must have a connection.
+[2022.10.09-21.57.48:441][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.10.09-21.58.54:394][913]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2022.10.09-21.58.55:212][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.10.09-21.58.56:885][947]LogSavePackage: Moving output files for package: /Game/FPS/Blueprints/CharacterAndClasses/BP_PlayerCharacter
+[2022.10.09-21.58.56:885][947]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/BP_PlayerCharacterB48B3BC54C2D6D19B33C21B651F97713.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/CharacterAndClasses/BP_PlayerCharacter.uasset'
+[2022.10.09-21.58.56:929][947]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2022.10.09-21.58.56:929][947]LogContentValidation: Display: Validating Blueprint /Game/FPS/Blueprints/CharacterAndClasses/BP_PlayerCharacter.BP_PlayerCharacter
+[2022.10.09-22.24.26:887][403]LogDerivedDataCache: C:/Users/Rocco Jelsomeno/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.564 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.09-22.55.49:979][ 16]LogHttp: Warning: 000004777F019B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B681E6053-4C59-F933-91FE-AB8C175F9404%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=a04ce4634d26a2b9fc3de7b58134c5d5%7Ca18d6d50461341ba807de369e31ca694%7C336aa67d-b97b-4b20-85a2-3839cd28e368&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.09-22.55.49:987][ 16]LogHttp: Warning: 000004777F019B00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.10.09-22.55.49:987][ 16]LogHttp: Warning: 000004777F019B00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x476be8d09f0 [can pipeline])
+[2022.10.09-22.55.50:017][ 16]LogHttp: Warning: 000004777F019B00: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2022.10.09-22.55.50:018][ 16]LogHttp: Warning: 000004777F019B00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (107.20.21.94) port 443 (#1))
+[2022.10.09-22.55.50:018][ 16]LogHttp: Warning: 000004777F019B00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.10.09-22.55.50:018][ 16]LogHttp: Warning: 000004777F019B00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.10.09-22.55.50:018][ 16]LogHttp: Warning: 000004777F019B00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.10.09-22.55.50:018][ 16]LogHttp: Warning: 000004777F019B00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.10.09-22.55.50:018][ 16]LogHttp: Warning: 000004777F019B00: libcurl info message cache 7 (Closing connection 1)
+[2022.10.09-22.55.50:038][ 16]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B681E6053-4C59-F933-91FE-AB8C175F9404%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=a04ce4634d26a2b9fc3de7b58134c5d5%7Ca18d6d50461341ba807de369e31ca694%7C336aa67d-b97b-4b20-85a2-3839cd28e368&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.09-23.24.26:614][139]LogDerivedDataCache: C:/Users/Rocco Jelsomeno/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.324 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.10-00.24.26:571][875]LogDerivedDataCache: C:/Users/Rocco Jelsomeno/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.234 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.10-01.24.26:403][609]LogDerivedDataCache: C:/Users/Rocco Jelsomeno/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.131 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.10-02.24.29:525][351]LogDerivedDataCache: C:/Users/Rocco Jelsomeno/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.209 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.10-03.24.27:129][ 86]LogDerivedDataCache: C:/Users/Rocco Jelsomeno/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.812 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.10-04.24.26:847][825]LogDerivedDataCache: C:/Users/Rocco Jelsomeno/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.485 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.10-05.24.26:492][558]LogDerivedDataCache: C:/Users/Rocco Jelsomeno/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.252 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.10-06.00.01:317][585]LogEditorViewport: Clicking Background
+[2022.10.10-06.07.19:486][224]BlueprintLog: New page: Compile BP_BasePlayerController
+[2022.10.10-06.07.21:408][224]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2022.10.10-06.09.03:705][ 18]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FPS/Blueprints/PlayerState/BP_PlayerState.BP_PlayerState
+[2022.10.10-06.09.03:781][ 18]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.10-06.09.38:303][ 18]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2022.10.10-06.09.38:303][ 18]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.000000s
+[2022.10.10-06.09.38:735][ 18]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.002786s (2.640234s overbudget)
+[2022.10.10-06.09.39:809][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.10.10-06.09.39:811][ 19]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map3/Sunlight_Museum_TestSpawns' took 0.181
+[2022.10.10-06.09.39:840][ 19]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FPS/Blueprints/GameModes/BP_Base_GS] ([2] browsable assets)...
+[2022.10.10-06.09.39:840][ 19]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS/Blueprints/GameModes/BP_Base_GS]
+[2022.10.10-06.09.39:879][ 19]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FPS/Blueprints/GameModes/BP_Base_GS_Auto3
+[2022.10.10-06.09.39:880][ 19]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/BP_Base_GS_Auto354E05E27451AA304B16D4DA2E77A157C.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/Autosaves/Game/FPS/Blueprints/GameModes/BP_Base_GS_Auto3.uasset'
+[2022.10.10-06.09.39:898][ 19]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FPS/Blueprints/PlayerController/BP_BasePlayerController] ([2] browsable assets)...
+[2022.10.10-06.09.39:898][ 19]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS/Blueprints/PlayerController/BP_BasePlayerController]
+[2022.10.10-06.09.40:068][ 19]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FPS/Blueprints/PlayerController/BP_BasePlayerController_Auto3
+[2022.10.10-06.09.40:068][ 19]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/BP_BasePlayerController_Auto3E5F83FAC49D2AFE2C0C0E9BCCC9AA1A5.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/Autosaves/Game/FPS/Blueprints/PlayerController/BP_BasePlayerController_Auto3.uasset'
+[2022.10.10-06.09.40:068][ 19]LogFileHelpers: Auto-saving content packages took 0.228
+[2022.10.10-06.10.34:352][336]BlueprintLog: New page: Compile BP_Base_GM
+[2022.10.10-06.10.35:976][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.10.10-06.10.37:728][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FPS/Blueprints/GameModes/BP_Base_GM" FILE="../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GM.uasset" SILENT=true
+[2022.10.10-06.10.37:837][410]LogSavePackage: Moving output files for package: /Game/FPS/Blueprints/GameModes/BP_Base_GM
+[2022.10.10-06.10.37:837][410]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/BP_Base_GM9FB9AB2549A6799043D506975BA9F1B6.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GM.uasset'
+[2022.10.10-06.10.37:911][410]AssetCheck: New page: Asset Save: BP_Base_GM
+[2022.10.10-06.10.37:911][410]LogContentValidation: Display: Validating Blueprint /Game/FPS/Blueprints/GameModes/BP_Base_GM.BP_Base_GM
+[2022.10.10-06.10.43:326][744]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-06.10.43:326][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-06.10.47:161][804]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.10-06.10.47:161][804]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-06.10.47:161][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-06.10.56:434][331]LogEditorTransaction: Undo Move Node
+[2022.10.10-06.11.22:830][ 55]BlueprintLog: New page: Compile BP_Base_GS
+[2022.10.10-06.11.23:327][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.10.10-06.11.24:344][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FPS/Blueprints/GameModes/BP_Base_GS" FILE="../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GS.uasset" SILENT=true
+[2022.10.10-06.11.24:380][ 78]LogSavePackage: Moving output files for package: /Game/FPS/Blueprints/GameModes/BP_Base_GS
+[2022.10.10-06.11.24:380][ 78]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/BP_Base_GS3B81111E421C07C51964D986729D4D79.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GS.uasset'
+[2022.10.10-06.11.24:444][ 78]AssetCheck: New page: Asset Save: BP_Base_GS
+[2022.10.10-06.11.24:444][ 78]LogContentValidation: Display: Validating Blueprint /Game/FPS/Blueprints/GameModes/BP_Base_GS.BP_Base_GS
+[2022.10.10-06.11.36:144][730]LogSavePackage: Moving output files for package: /Game/FPS/Blueprints/PlayerController/BP_BasePlayerController
+[2022.10.10-06.11.36:144][730]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/BP_BasePlayerControllerBD704D5A43CA6A1621E70AA0FF16F355.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/PlayerController/BP_BasePlayerController.uasset'
+[2022.10.10-06.11.36:365][730]AssetCheck: New page: Asset Save: BP_BasePlayerController
+[2022.10.10-06.11.36:365][730]LogContentValidation: Display: Validating Blueprint /Game/FPS/Blueprints/PlayerController/BP_BasePlayerController.BP_BasePlayerController
+[2022.10.10-06.12.09:794][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FPS/Blueprints/GameModes/BP_Base_GS" FILE="../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GS.uasset" SILENT=true
+[2022.10.10-06.12.09:830][236]LogSavePackage: Moving output files for package: /Game/FPS/Blueprints/GameModes/BP_Base_GS
+[2022.10.10-06.12.09:831][236]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/BP_Base_GSACF12AAB4FF6486BAF1060A15AF4D417.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GS.uasset'
+[2022.10.10-06.12.09:895][236]AssetCheck: New page: Asset Save: BP_Base_GS
+[2022.10.10-06.12.09:895][236]LogContentValidation: Display: Validating Blueprint /Game/FPS/Blueprints/GameModes/BP_Base_GS.BP_Base_GS
+[2022.10.10-06.12.11:715][293]LogTurnkeySupport: Display: Adding device menu item for RJ-PC
+[2022.10.10-06.12.13:240][382]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.10-06.12.13:321][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.10.10-06.12.41:001][981]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.10-06.12.41:348][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.10.10-06.12.41:365][982]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.10-06.12.41:441][982]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.10.10-06.14.05:603][477]LogTurnkeySupport: Display: Adding device menu item for RJ-PC
+[2022.10.10-06.14.08:377][565]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.10-06.14.08:777][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.10.10-06.14.35:209][546]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.10-06.14.35:373][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.10.10-06.14.35:389][547]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.10-06.14.35:545][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.10.10-06.15.16:766][995]LogEditorViewport: Clicking Background
+[2022.10.10-06.15.53:797][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.10.10-06.15.54:734][779]LogSavePackage: Moving output files for package: /Game/Map3/Sunlight_Museum_TestSpawns
+[2022.10.10-06.15.54:735][779]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/Sunlight_Museum_TestSpawnsA72626CF40B7729EB9E52C8A7C6F06D6.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/Map3/Sunlight_Museum_TestSpawns.umap'
+[2022.10.10-06.15.55:210][779]LogFileHelpers: No new changes to save!
+[2022.10.10-06.15.55:281][779]AssetCheck: New page: Asset Save: Sunlight_Museum_TestSpawns
+[2022.10.10-06.15.55:281][779]LogContentValidation: Display: Validating World /Game/Map3/Sunlight_Museum_TestSpawns.Sunlight_Museum_TestSpawns
+[2022.10.10-06.15.55:656][821]LogTurnkeySupport: Display: Adding device menu item for RJ-PC
+[2022.10.10-06.15.58:883][953]LogTurnkeySupport: Display: Adding device menu item for RJ-PC
+[2022.10.10-06.16.05:223][193]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.10-06.16.05:296][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.10.10-06.16.07:108][267]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.10-06.16.07:273][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.10.10-06.19.10:673][  2]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.10-06.19.11:514][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.10.10-06.19.27:688][312]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.10-06.19.27:944][312]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.10-06.19.28:239][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.10.10-06.19.33:990][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.10.10-06.20.35:119][760]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.10.10-06.21.36:530][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.10.10-06.22.32:361][516]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameState_ReturnValue
+	BP_PlayerCharacter_C /Engine/Transient.World_2:PersistentLevel.BP_PlayerCharacter_C_1
+	Function /Game/FPS/Blueprints/CharacterAndClasses/BP_PlayerCharacter.BP_PlayerCharacter_C:ExecuteUbergraph_BP_PlayerCharacter:B0FB
+[2022.10.10-06.22.32:361][516]LogScript: Warning: Accessed None
+	BP_PlayerCharacter_C /Engine/Transient.World_2:PersistentLevel.BP_PlayerCharacter_C_1
+	Function /Game/FPS/Blueprints/CharacterAndClasses/BP_PlayerCharacter.BP_PlayerCharacter_C:ExecuteUbergraph_BP_PlayerCharacter:B0DC
+[2022.10.10-06.22.33:193][548]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameMode_ReturnValue
+	SP_DeadTeammateInfluence_C /Engine/Transient.World_2:PersistentLevel.BP_PlayerCharacter_C_1.SP_DeadTeammateInfluence
+	Function /Game/InfluenceSpawnSystem/Blueprints/InfluenceSpawnSystem/Influences/SP_BaseInfluence.SP_BaseInfluence_C:ExecuteUbergraph_SP_BaseInfluence:027E
+[2022.10.10-06.22.33:194][548]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameMode_ReturnValue
+	SP_AllyBiasInfluence_C /Engine/Transient.World_2:PersistentLevel.BP_PlayerCharacter_C_1.SP_AllyBiasInfluence
+	Function /Game/InfluenceSpawnSystem/Blueprints/InfluenceSpawnSystem/Influences/SP_BaseInfluence.SP_BaseInfluence_C:ExecuteUbergraph_SP_BaseInfluence:027E
+[2022.10.10-06.22.34:403][595]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameMode_ReturnValue
+	SP_DeadTeammateInfluence_C /Engine/Transient.World_2:PersistentLevel.BP_PlayerCharacter_C_1.SP_DeadTeammateInfluence
+	Function /Game/InfluenceSpawnSystem/Blueprints/InfluenceSpawnSystem/Influences/SP_BaseInfluence.SP_BaseInfluence_C:ExecuteUbergraph_SP_BaseInfluence:027E
+[2022.10.10-06.22.34:404][595]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameMode_ReturnValue
+	SP_AllyBiasInfluence_C /Engine/Transient.World_2:PersistentLevel.BP_PlayerCharacter_C_1.SP_AllyBiasInfluence
+	Function /Game/InfluenceSpawnSystem/Blueprints/InfluenceSpawnSystem/Influences/SP_BaseInfluence.SP_BaseInfluence_C:ExecuteUbergraph_SP_BaseInfluence:027E
+[2022.10.10-06.22.35:615][667]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameMode_ReturnValue
+	SP_DeadTeammateInfluence_C /Engine/Transient.World_2:PersistentLevel.BP_PlayerCharacter_C_1.SP_DeadTeammateInfluence
+	Function /Game/InfluenceSpawnSystem/Blueprints/InfluenceSpawnSystem/Influences/SP_BaseInfluence.SP_BaseInfluence_C:ExecuteUbergraph_SP_BaseInfluence:027E
+[2022.10.10-06.22.35:616][667]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameMode_ReturnValue
+	SP_AllyBiasInfluence_C /Engine/Transient.World_2:PersistentLevel.BP_PlayerCharacter_C_1.SP_AllyBiasInfluence
+	Function /Game/InfluenceSpawnSystem/Blueprints/InfluenceSpawnSystem/Influences/SP_BaseInfluence.SP_BaseInfluence_C:ExecuteUbergraph_SP_BaseInfluence:027E
+[2022.10.10-06.22.36:903][743]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameMode_ReturnValue
+	SP_DeadTeammateInfluence_C /Engine/Transient.World_2:PersistentLevel.BP_PlayerCharacter_C_1.SP_DeadTeammateInfluence
+	Function /Game/InfluenceSpawnSystem/Blueprints/InfluenceSpawnSystem/Influences/SP_BaseInfluence.SP_BaseInfluence_C:ExecuteUbergraph_SP_BaseInfluence:027E
+[2022.10.10-06.22.36:903][743]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameMode_ReturnValue
+	SP_AllyBiasInfluence_C /Engine/Transient.World_2:PersistentLevel.BP_PlayerCharacter_C_1.SP_AllyBiasInfluence
+	Function /Game/InfluenceSpawnSystem/Blueprints/InfluenceSpawnSystem/Influences/SP_BaseInfluence.SP_BaseInfluence_C:ExecuteUbergraph_SP_BaseInfluence:027E
+[2022.10.10-06.22.37:779][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.10.10-06.22.37:798][763]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameMode_ReturnValue
+	SP_EnemyForbidInfluence_C /Engine/Transient.World_2:PersistentLevel.BP_PlayerCharacter_C_1.SP_EnemyForbidInfluence
+	Function /Game/InfluenceSpawnSystem/Blueprints/InfluenceSpawnSystem/Influences/SP_BaseInfluence.SP_BaseInfluence_C:ExecuteUbergraph_SP_BaseInfluence:027E
+[2022.10.10-06.22.38:114][784]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameMode_ReturnValue
+	SP_DeadTeammateInfluence_C /Engine/Transient.World_2:PersistentLevel.BP_PlayerCharacter_C_1.SP_DeadTeammateInfluence
+	Function /Game/InfluenceSpawnSystem/Blueprints/InfluenceSpawnSystem/Influences/SP_BaseInfluence.SP_BaseInfluence_C:ExecuteUbergraph_SP_BaseInfluence:027E
+[2022.10.10-06.22.38:114][784]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameMode_ReturnValue
+	SP_AllyBiasInfluence_C /Engine/Transient.World_2:PersistentLevel.BP_PlayerCharacter_C_1.SP_AllyBiasInfluence
+	Function /Game/InfluenceSpawnSystem/Blueprints/InfluenceSpawnSystem/Influences/SP_BaseInfluence.SP_BaseInfluence_C:ExecuteUbergraph_SP_BaseInfluence:027E
+[2022.10.10-06.22.39:014][814]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameMode_ReturnValue
+	SP_EnemyForbidInfluence_C /Engine/Transient.World_2:PersistentLevel.BP_PlayerCharacter_C_1.SP_EnemyForbidInfluence
+	Function /Game/InfluenceSpawnSystem/Blueprints/InfluenceSpawnSystem/Influences/SP_BaseInfluence.SP_BaseInfluence_C:ExecuteUbergraph_SP_BaseInfluence:027E
+[2022.10.10-06.22.39:328][835]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameMode_ReturnValue
+	SP_DeadTeammateInfluence_C /Engine/Transient.World_2:PersistentLevel.BP_PlayerCharacter_C_1.SP_DeadTeammateInfluence
+	Function /Game/InfluenceSpawnSystem/Blueprints/InfluenceSpawnSystem/Influences/SP_BaseInfluence.SP_BaseInfluence_C:ExecuteUbergraph_SP_BaseInfluence:027E
+[2022.10.10-06.22.39:328][835]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameMode_ReturnValue
+	SP_AllyBiasInfluence_C /Engine/Transient.World_2:PersistentLevel.BP_PlayerCharacter_C_1.SP_AllyBiasInfluence
+	Function /Game/InfluenceSpawnSystem/Blueprints/InfluenceSpawnSystem/Influences/SP_BaseInfluence.SP_BaseInfluence_C:ExecuteUbergraph_SP_BaseInfluence:027E
+[2022.10.10-06.22.40:214][896]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameMode_ReturnValue
+	SP_EnemyForbidInfluence_C /Engine/Transient.World_2:PersistentLevel.BP_PlayerCharacter_C_1.SP_EnemyForbidInfluence
+	Function /Game/InfluenceSpawnSystem/Blueprints/InfluenceSpawnSystem/Influences/SP_BaseInfluence.SP_BaseInfluence_C:ExecuteUbergraph_SP_BaseInfluence:027E
+[2022.10.10-06.22.40:536][916]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameMode_ReturnValue
+	SP_DeadTeammateInfluence_C /Engine/Transient.World_2:PersistentLevel.BP_PlayerCharacter_C_1.SP_DeadTeammateInfluence
+	Function /Game/InfluenceSpawnSystem/Blueprints/InfluenceSpawnSystem/Influences/SP_BaseInfluence.SP_BaseInfluence_C:ExecuteUbergraph_SP_BaseInfluence:027E
+[2022.10.10-06.22.40:536][916]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameMode_ReturnValue
+	SP_AllyBiasInfluence_C /Engine/Transient.World_2:PersistentLevel.BP_PlayerCharacter_C_1.SP_AllyBiasInfluence
+	Function /Game/InfluenceSpawnSystem/Blueprints/InfluenceSpawnSystem/Influences/SP_BaseInfluence.SP_BaseInfluence_C:ExecuteUbergraph_SP_BaseInfluence:027E
+[2022.10.10-06.22.41:648][958]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameMode_ReturnValue
+	SP_EnemyForbidInfluence_C /Engine/Transient.World_2:PersistentLevel.BP_PlayerCharacter_C_1.SP_EnemyForbidInfluence
+	Function /Game/InfluenceSpawnSystem/Blueprints/InfluenceSpawnSystem/Influences/SP_BaseInfluence.SP_BaseInfluence_C:ExecuteUbergraph_SP_BaseInfluence:027E
+[2022.10.10-06.22.41:987][961]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameMode_ReturnValue
+	SP_DeadTeammateInfluence_C /Engine/Transient.World_2:PersistentLevel.BP_PlayerCharacter_C_1.SP_DeadTeammateInfluence
+	Function /Game/InfluenceSpawnSystem/Blueprints/InfluenceSpawnSystem/Influences/SP_BaseInfluence.SP_BaseInfluence_C:ExecuteUbergraph_SP_BaseInfluence:027E
+[2022.10.10-06.22.41:987][961]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameMode_ReturnValue
+	SP_AllyBiasInfluence_C /Engine/Transient.World_2:PersistentLevel.BP_PlayerCharacter_C_1.SP_AllyBiasInfluence
+	Function /Game/InfluenceSpawnSystem/Blueprints/InfluenceSpawnSystem/Influences/SP_BaseInfluence.SP_BaseInfluence_C:ExecuteUbergraph_SP_BaseInfluence:027E
+[2022.10.10-06.22.42:827][996]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameMode_ReturnValue
+	SP_EnemyForbidInfluence_C /Engine/Transient.World_2:PersistentLevel.BP_PlayerCharacter_C_1.SP_EnemyForbidInfluence
+	Function /Game/InfluenceSpawnSystem/Blueprints/InfluenceSpawnSystem/Influences/SP_BaseInfluence.SP_BaseInfluence_C:ExecuteUbergraph_SP_BaseInfluence:027E
+[2022.10.10-06.22.43:187][ 21]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameMode_ReturnValue
+	SP_DeadTeammateInfluence_C /Engine/Transient.World_2:PersistentLevel.BP_PlayerCharacter_C_1.SP_DeadTeammateInfluence
+	Function /Game/InfluenceSpawnSystem/Blueprints/InfluenceSpawnSystem/Influences/SP_BaseInfluence.SP_BaseInfluence_C:ExecuteUbergraph_SP_BaseInfluence:027E
+[2022.10.10-06.22.43:187][ 21]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameMode_ReturnValue
+	SP_AllyBiasInfluence_C /Engine/Transient.World_2:PersistentLevel.BP_PlayerCharacter_C_1.SP_AllyBiasInfluence
+	Function /Game/InfluenceSpawnSystem/Blueprints/InfluenceSpawnSystem/Influences/SP_BaseInfluence.SP_BaseInfluence_C:ExecuteUbergraph_SP_BaseInfluence:027E
+[2022.10.10-06.22.44:033][ 82]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameMode_ReturnValue
+	SP_EnemyForbidInfluence_C /Engine/Transient.World_2:PersistentLevel.BP_PlayerCharacter_C_1.SP_EnemyForbidInfluence
+	Function /Game/InfluenceSpawnSystem/Blueprints/InfluenceSpawnSystem/Influences/SP_BaseInfluence.SP_BaseInfluence_C:ExecuteUbergraph_SP_BaseInfluence:027E
+[2022.10.10-06.22.44:443][101]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameMode_ReturnValue
+	SP_DeadTeammateInfluence_C /Engine/Transient.World_2:PersistentLevel.BP_PlayerCharacter_C_1.SP_DeadTeammateInfluence
+	Function /Game/InfluenceSpawnSystem/Blueprints/InfluenceSpawnSystem/Influences/SP_BaseInfluence.SP_BaseInfluence_C:ExecuteUbergraph_SP_BaseInfluence:027E
+[2022.10.10-06.22.44:443][101]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameMode_ReturnValue
+	SP_AllyBiasInfluence_C /Engine/Transient.World_2:PersistentLevel.BP_PlayerCharacter_C_1.SP_AllyBiasInfluence
+	Function /Game/InfluenceSpawnSystem/Blueprints/InfluenceSpawnSystem/Influences/SP_BaseInfluence.SP_BaseInfluence_C:ExecuteUbergraph_SP_BaseInfluence:027E
+[2022.10.10-06.22.45:317][115]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameMode_ReturnValue
+	SP_EnemyForbidInfluence_C /Engine/Transient.World_2:PersistentLevel.BP_PlayerCharacter_C_1.SP_EnemyForbidInfluence
+	Function /Game/InfluenceSpawnSystem/Blueprints/InfluenceSpawnSystem/Influences/SP_BaseInfluence.SP_BaseInfluence_C:ExecuteUbergraph_SP_BaseInfluence:027E
+[2022.10.10-06.22.45:659][126]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameMode_ReturnValue
+	SP_DeadTeammateInfluence_C /Engine/Transient.World_2:PersistentLevel.BP_PlayerCharacter_C_1.SP_DeadTeammateInfluence
+	Function /Game/InfluenceSpawnSystem/Blueprints/InfluenceSpawnSystem/Influences/SP_BaseInfluence.SP_BaseInfluence_C:ExecuteUbergraph_SP_BaseInfluence:027E
+[2022.10.10-06.22.45:659][126]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameMode_ReturnValue
+	SP_AllyBiasInfluence_C /Engine/Transient.World_2:PersistentLevel.BP_PlayerCharacter_C_1.SP_AllyBiasInfluence
+	Function /Game/InfluenceSpawnSystem/Blueprints/InfluenceSpawnSystem/Influences/SP_BaseInfluence.SP_BaseInfluence_C:ExecuteUbergraph_SP_BaseInfluence:027E
+[2022.10.10-06.22.46:788][180]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameMode_ReturnValue
+	SP_EnemyForbidInfluence_C /Engine/Transient.World_2:PersistentLevel.BP_PlayerCharacter_C_1.SP_EnemyForbidInfluence
+	Function /Game/InfluenceSpawnSystem/Blueprints/InfluenceSpawnSystem/Influences/SP_BaseInfluence.SP_BaseInfluence_C:ExecuteUbergraph_SP_BaseInfluence:027E
+[2022.10.10-06.22.46:895][182]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameMode_ReturnValue
+	SP_DeadTeammateInfluence_C /Engine/Transient.World_2:PersistentLevel.BP_PlayerCharacter_C_1.SP_DeadTeammateInfluence
+	Function /Game/InfluenceSpawnSystem/Blueprints/InfluenceSpawnSystem/Influences/SP_BaseInfluence.SP_BaseInfluence_C:ExecuteUbergraph_SP_BaseInfluence:027E
+[2022.10.10-06.22.46:895][182]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameMode_ReturnValue
+	SP_AllyBiasInfluence_C /Engine/Transient.World_2:PersistentLevel.BP_PlayerCharacter_C_1.SP_AllyBiasInfluence
+	Function /Game/InfluenceSpawnSystem/Blueprints/InfluenceSpawnSystem/Influences/SP_BaseInfluence.SP_BaseInfluence_C:ExecuteUbergraph_SP_BaseInfluence:027E
+[2022.10.10-06.22.48:010][213]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameMode_ReturnValue
+	SP_EnemyForbidInfluence_C /Engine/Transient.World_2:PersistentLevel.BP_PlayerCharacter_C_1.SP_EnemyForbidInfluence
+	Function /Game/InfluenceSpawnSystem/Blueprints/InfluenceSpawnSystem/Influences/SP_BaseInfluence.SP_BaseInfluence_C:ExecuteUbergraph_SP_BaseInfluence:027E
+[2022.10.10-06.22.48:027][214]LogTurnkeySupport: Display: Adding device menu item for RJ-PC
+[2022.10.10-06.22.48:224][215]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameMode_ReturnValue
+	SP_DeadTeammateInfluence_C /Engine/Transient.World_2:PersistentLevel.BP_PlayerCharacter_C_1.SP_DeadTeammateInfluence
+	Function /Game/InfluenceSpawnSystem/Blueprints/InfluenceSpawnSystem/Influences/SP_BaseInfluence.SP_BaseInfluence_C:ExecuteUbergraph_SP_BaseInfluence:027E
+[2022.10.10-06.22.48:224][215]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameMode_ReturnValue
+	SP_AllyBiasInfluence_C /Engine/Transient.World_2:PersistentLevel.BP_PlayerCharacter_C_1.SP_AllyBiasInfluence
+	Function /Game/InfluenceSpawnSystem/Blueprints/InfluenceSpawnSystem/Influences/SP_BaseInfluence.SP_BaseInfluence_C:ExecuteUbergraph_SP_BaseInfluence:027E
+[2022.10.10-06.22.49:212][245]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameMode_ReturnValue
+	SP_EnemyForbidInfluence_C /Engine/Transient.World_2:PersistentLevel.BP_PlayerCharacter_C_1.SP_EnemyForbidInfluence
+	Function /Game/InfluenceSpawnSystem/Blueprints/InfluenceSpawnSystem/Influences/SP_BaseInfluence.SP_BaseInfluence_C:ExecuteUbergraph_SP_BaseInfluence:027E
+[2022.10.10-06.22.49:429][259]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameMode_ReturnValue
+	SP_DeadTeammateInfluence_C /Engine/Transient.World_2:PersistentLevel.BP_PlayerCharacter_C_1.SP_DeadTeammateInfluence
+	Function /Game/InfluenceSpawnSystem/Blueprints/InfluenceSpawnSystem/Influences/SP_BaseInfluence.SP_BaseInfluence_C:ExecuteUbergraph_SP_BaseInfluence:027E
+[2022.10.10-06.22.49:429][259]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameMode_ReturnValue
+	SP_AllyBiasInfluence_C /Engine/Transient.World_2:PersistentLevel.BP_PlayerCharacter_C_1.SP_AllyBiasInfluence
+	Function /Game/InfluenceSpawnSystem/Blueprints/InfluenceSpawnSystem/Influences/SP_BaseInfluence.SP_BaseInfluence_C:ExecuteUbergraph_SP_BaseInfluence:027E
+[2022.10.10-06.23.24:013][ 79]BlueprintLog: New page: Compile BP_Base_GM
+[2022.10.10-06.23.24:676][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.10.10-06.23.25:714][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FPS/Blueprints/GameModes/BP_Base_GM" FILE="../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GM.uasset" SILENT=true
+[2022.10.10-06.23.25:817][104]LogSavePackage: Moving output files for package: /Game/FPS/Blueprints/GameModes/BP_Base_GM
+[2022.10.10-06.23.25:817][104]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/BP_Base_GM11ACE63442BD02A033852C80938CBF65.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GM.uasset'
+[2022.10.10-06.23.26:147][104]AssetCheck: New page: Asset Save: BP_Base_GM
+[2022.10.10-06.23.26:147][104]LogContentValidation: Display: Validating Blueprint /Game/FPS/Blueprints/GameModes/BP_Base_GM.BP_Base_GM
+[2022.10.10-06.23.39:458][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.10.10-06.23.56:217][665]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'AActor::ForceNetUpdate' [Element not found.]
+[2022.10.10-06.23.58:166][797]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'AActor::ForceNetUpdate' [The specified module could not be found.]
+[2022.10.10-06.24.26:825][661]LogDerivedDataCache: C:/Users/Rocco Jelsomeno/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.585 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.10-06.24.34:710][116]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'AGameMode::StartMatch' [The specified module could not be found.]
+[2022.10.10-06.24.40:707][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.10-06.25.41:291][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.10.10-06.25.53:406][891]BlueprintLog: New page: Compile BP_Base_GS
+[2022.10.10-06.25.53:836][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.10.10-06.25.55:302][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FPS/Blueprints/GameModes/BP_Base_GS" FILE="../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GS.uasset" SILENT=true
+[2022.10.10-06.25.55:382][930]LogSavePackage: Moving output files for package: /Game/FPS/Blueprints/GameModes/BP_Base_GS
+[2022.10.10-06.25.55:382][930]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/BP_Base_GS14EEFF604F6E09497C10EB9F871D4360.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GS.uasset'
+[2022.10.10-06.25.55:475][930]AssetCheck: New page: Asset Save: BP_Base_GS
+[2022.10.10-06.25.55:475][930]LogContentValidation: Display: Validating Blueprint /Game/FPS/Blueprints/GameModes/BP_Base_GS.BP_Base_GS
+[2022.10.10-06.26.10:107][623]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.10-06.26.10:222][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.10.10-06.26.42:555][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.10.10-06.27.22:049][ 49]BlueprintLog: New page: Compile BP_Base_GS
+[2022.10.10-06.27.22:480][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.10.10-06.27.23:583][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FPS/Blueprints/GameModes/BP_Base_GS" FILE="../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GS.uasset" SILENT=true
+[2022.10.10-06.27.23:660][ 80]LogSavePackage: Moving output files for package: /Game/FPS/Blueprints/GameModes/BP_Base_GS
+[2022.10.10-06.27.23:661][ 80]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/BP_Base_GS6DAD9A554D224196BC29BCADEA9D62A8.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GS.uasset'
+[2022.10.10-06.27.23:726][ 80]AssetCheck: New page: Asset Save: BP_Base_GS
+[2022.10.10-06.27.23:726][ 80]LogContentValidation: Display: Validating Blueprint /Game/FPS/Blueprints/GameModes/BP_Base_GS.BP_Base_GS
+[2022.10.10-06.27.25:820][215]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.10-06.27.26:196][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.10.10-06.27.26:224][216]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.10-06.27.26:560][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.10.10-06.27.43:906][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.10.10-06.28.45:385][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-06.29.45:970][797]BlueprintLog: New page: Compile BP_Base_GM
+[2022.10.10-06.29.46:904][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.10.10-06.29.47:571][798]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.10.10-06.29.48:412][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FPS/Blueprints/GameModes/BP_Base_GM" FILE="../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GM.uasset" SILENT=true
+[2022.10.10-06.29.48:548][808]LogSavePackage: Moving output files for package: /Game/FPS/Blueprints/GameModes/BP_Base_GM
+[2022.10.10-06.29.48:548][808]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/BP_Base_GM9D2781B64CF299C4EA6C0CA647C75A90.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GM.uasset'
+[2022.10.10-06.29.48:614][808]AssetCheck: New page: Asset Save: BP_Base_GM
+[2022.10.10-06.29.48:614][808]LogContentValidation: Display: Validating Blueprint /Game/FPS/Blueprints/GameModes/BP_Base_GM.BP_Base_GM
+[2022.10.10-06.30.12:200][661]BlueprintLog: New page: Compile BP_BasePlayerController
+[2022.10.10-06.30.12:664][661]LogUObjectHash: Compacting FUObjectHashTables data took  13.99ms
+[2022.10.10-06.30.14:029][696]LogSavePackage: Moving output files for package: /Game/FPS/Blueprints/PlayerController/BP_BasePlayerController
+[2022.10.10-06.30.14:029][696]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/BP_BasePlayerControllerBA8513FD4E409D2661362384BAEEFB98.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/PlayerController/BP_BasePlayerController.uasset'
+[2022.10.10-06.30.14:167][696]AssetCheck: New page: Asset Save: BP_BasePlayerController
+[2022.10.10-06.30.14:167][696]LogContentValidation: Display: Validating Blueprint /Game/FPS/Blueprints/PlayerController/BP_BasePlayerController.BP_BasePlayerController
+[2022.10.10-06.30.38:872][865]BlueprintLog: New page: Compile BP_Base_GS
+[2022.10.10-06.30.39:744][865]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.10.10-06.30.40:783][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FPS/Blueprints/GameModes/BP_Base_GS" FILE="../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GS.uasset" SILENT=true
+[2022.10.10-06.30.40:854][901]LogSavePackage: Moving output files for package: /Game/FPS/Blueprints/GameModes/BP_Base_GS
+[2022.10.10-06.30.40:855][901]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/BP_Base_GS4DAF9EA049960AF112322380EBCAFFC1.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GS.uasset'
+[2022.10.10-06.30.40:959][901]AssetCheck: New page: Asset Save: BP_Base_GS
+[2022.10.10-06.30.40:959][901]LogContentValidation: Display: Validating Blueprint /Game/FPS/Blueprints/GameModes/BP_Base_GS.BP_Base_GS
+[2022.10.10-06.30.44:414][ 86]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.10-06.30.44:492][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.10.10-06.30.44:580][ 93]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.10-06.30.44:668][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.10.10-06.30.48:772][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.10.10-06.31.49:883][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.10.10-06.32.51:293][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.10.10-06.33.52:483][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-06.34.53:886][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-06.35.54:938][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.10-06.36.56:210][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.10.10-06.37.57:443][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-06.38.58:906][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-06.39.59:959][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-06.41.01:323][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.10-06.42.02:523][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.10-06.43.03:619][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.10.10-06.43.19:432][794]BlueprintLog: New page: Compile BP_Base_GS
+[2022.10.10-06.43.20:555][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.10.10-06.43.21:547][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FPS/Blueprints/GameModes/BP_Base_GS" FILE="../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GS.uasset" SILENT=true
+[2022.10.10-06.43.21:584][829]LogSavePackage: Moving output files for package: /Game/FPS/Blueprints/GameModes/BP_Base_GS
+[2022.10.10-06.43.21:584][829]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/BP_Base_GS16498F554B08580CC3D22487287BE56D.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GS.uasset'
+[2022.10.10-06.43.21:648][829]AssetCheck: New page: Asset Save: BP_Base_GS
+[2022.10.10-06.43.21:648][829]LogContentValidation: Display: Validating Blueprint /Game/FPS/Blueprints/GameModes/BP_Base_GS.BP_Base_GS
+[2022.10.10-06.44.04:863][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.10.10-06.44.50:332][ 89]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.10-06.44.50:408][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-06.44.50:507][ 94]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.10-06.44.50:581][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.10.10-06.45.06:174][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-06.46.07:675][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-06.47.08:899][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.10.10-06.48.10:068][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-06.48.54:694][707]LogEditorViewport: Clicking Background
+[2022.10.10-06.49.03:357][327]Cmd: DELETE
+[2022.10.10-06.49.03:357][327]Cmd: ACTOR DELETE
+[2022.10.10-06.49.04:328][327]LogEditorActor: Deleted Actor: BP_ISS_SpawnPoint_C
+[2022.10.10-06.49.04:469][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.10.10-06.49.04:472][327]LogEditorActor: Deleted 1 Actors (0.640 secs)
+[2022.10.10-06.49.11:213][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-06.49.13:001][748]Cmd: DELETE
+[2022.10.10-06.49.13:001][748]Cmd: ACTOR DELETE
+[2022.10.10-06.49.13:033][748]LogEditorActor: Deleted Actor: BP_ISS_SpawnPoint_C
+[2022.10.10-06.49.13:099][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.10.10-06.49.13:102][748]LogEditorActor: Deleted 1 Actors (0.101 secs)
+[2022.10.10-06.49.20:267][333]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.10-06.49.22:572][474]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.10-06.49.24:027][595]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.10-06.49.24:240][605]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.10-06.49.25:736][745]LogEditorViewport: Clicking Background
+[2022.10.10-06.49.48:615][985]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.10-06.49.48:809][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.10.10-06.49.50:449][985]LogSlate: Window 'Save Content' being destroyed
+[2022.10.10-06.49.50:928][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-06.49.51:167][985]LogSavePackage: Moving output files for package: /Game/Map3/Sunlight_Museum_TestSpawns
+[2022.10.10-06.49.51:168][985]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/Sunlight_Museum_TestSpawns3D7482274DD0EB9C68FB3A9B3BC69E60.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/Map3/Sunlight_Museum_TestSpawns.umap'
+[2022.10.10-06.49.51:233][985]LogFileHelpers: No new changes to save!
+[2022.10.10-06.49.51:234][985]LogFileHelpers: Saving map 'Sunlight_Museum_TestSpawns' took 0.421
+[2022.10.10-06.49.51:337][986]AssetCheck: New page: Asset Save: Sunlight_Museum_TestSpawns
+[2022.10.10-06.49.51:337][986]LogContentValidation: Display: Validating World /Game/Map3/Sunlight_Museum_TestSpawns.Sunlight_Museum_TestSpawns
+[2022.10.10-06.49.56:008][115]LogTurnkeySupport: Display: Adding device menu item for RJ-PC
+[2022.10.10-06.50.12:523][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.10.10-06.50.18:340][499]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.10-06.50.18:564][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-06.50.18:604][500]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.10-06.50.18:750][500]LogUObjectHash: Compacting FUObjectHashTables data took  74.07ms
+[2022.10.10-06.51.13:522][907]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.10.10-06.52.15:050][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.10.10-06.53.16:455][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.10.10-06.54.17:738][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.10.10-06.54.52:119][551]LogTurnkeySupport: Display: Adding device menu item for RJ-PC
+[2022.10.10-06.54.58:151][627]LogTurnkeySupport: Display: Adding device menu item for RJ-PC
+[2022.10.10-06.55.03:446][769]LogTurnkeySupport: Display: Adding device menu item for RJ-PC
+[2022.10.10-06.55.19:204][160]LogUObjectHash: Compacting FUObjectHashTables data took  21.46ms
+[2022.10.10-06.56.20:090][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.10.10-06.57.03:357][647]BlueprintLog: New page: Compile BP_Base_GS
+[2022.10.10-06.57.03:884][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.10.10-06.57.05:346][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FPS/Blueprints/GameModes/BP_Base_GS" FILE="../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GS.uasset" SILENT=true
+[2022.10.10-06.57.05:394][676]LogSavePackage: Moving output files for package: /Game/FPS/Blueprints/GameModes/BP_Base_GS
+[2022.10.10-06.57.05:407][676]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/BP_Base_GSC061F250401E7D8BF014ABACBBAD6848.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GS.uasset'
+[2022.10.10-06.57.05:563][676]AssetCheck: New page: Asset Save: BP_Base_GS
+[2022.10.10-06.57.05:563][676]LogContentValidation: Display: Validating Blueprint /Game/FPS/Blueprints/GameModes/BP_Base_GS.BP_Base_GS
+[2022.10.10-06.57.07:603][733]LogTurnkeySupport: Display: Adding device menu item for RJ-PC
+[2022.10.10-06.57.14:093][109]Cmd: DUPLICATE
+[2022.10.10-06.57.14:093][109]Cmd: ACTOR DUPLICATE
+[2022.10.10-06.57.14:863][109]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.10-06.57.16:435][186]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.10-06.57.17:396][252]Cmd: DUPLICATE
+[2022.10.10-06.57.17:396][252]Cmd: ACTOR DUPLICATE
+[2022.10.10-06.57.17:462][252]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.10-06.57.18:560][314]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.10-06.57.19:558][375]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.10-06.57.20:466][437]Cmd: DUPLICATE
+[2022.10.10-06.57.20:466][437]Cmd: ACTOR DUPLICATE
+[2022.10.10-06.57.20:506][437]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.10-06.57.21:213][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.10.10-06.57.22:102][528]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.10-06.57.27:250][827]Cmd: DUPLICATE
+[2022.10.10-06.57.27:250][827]Cmd: ACTOR DUPLICATE
+[2022.10.10-06.57.27:261][827]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.10-06.57.29:857][978]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.10-06.57.30:695][ 34]Cmd: DUPLICATE
+[2022.10.10-06.57.30:695][ 34]Cmd: ACTOR DUPLICATE
+[2022.10.10-06.57.30:707][ 34]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.10-06.57.32:366][133]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.10-06.57.38:259][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.10.10-06.57.38:590][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-06.57.38:747][408]LogSavePackage: Moving output files for package: /Game/Map3/Sunlight_Museum_TestSpawns
+[2022.10.10-06.57.38:747][408]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/Sunlight_Museum_TestSpawnsB0B77E6B431E3EFAF28F5495C3BE0F92.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/Map3/Sunlight_Museum_TestSpawns.umap'
+[2022.10.10-06.57.38:828][408]LogFileHelpers: No new changes to save!
+[2022.10.10-06.57.38:828][408]LogFileHelpers: Saving map 'Sunlight_Museum_TestSpawns' took 0.333
+[2022.10.10-06.57.38:916][408]AssetCheck: New page: Asset Save: Sunlight_Museum_TestSpawns
+[2022.10.10-06.57.38:916][408]LogContentValidation: Display: Validating World /Game/Map3/Sunlight_Museum_TestSpawns.Sunlight_Museum_TestSpawns
+[2022.10.10-06.57.41:003][497]LogTurnkeySupport: Display: Adding device menu item for RJ-PC
+[2022.10.10-06.57.43:586][580]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.10-06.57.43:655][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.10.10-06.57.43:762][583]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.10-06.57.43:833][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.10.10-06.58.20:977][523]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.10-06.58.21:076][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.10.10-06.58.21:164][525]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.10-06.58.21:261][525]LogUObjectHash: Compacting FUObjectHashTables data took  14.83ms
+[2022.10.10-06.58.22:303][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.10.10-06.59.23:550][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.10.10-07.00.24:967][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.10.10-07.01.26:112][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-07.02.09:116][143]BlueprintLog: New page: Compile BP_Base_GM
+[2022.10.10-07.02.09:730][143]LogUObjectHash: Compacting FUObjectHashTables data took   7.37ms
+[2022.10.10-07.02.10:847][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FPS/Blueprints/GameModes/BP_Base_GM" FILE="../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GM.uasset" SILENT=true
+[2022.10.10-07.02.11:000][166]LogSavePackage: Moving output files for package: /Game/FPS/Blueprints/GameModes/BP_Base_GM
+[2022.10.10-07.02.11:000][166]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/BP_Base_GM374E15254B05071C1D130EB67FD40995.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GM.uasset'
+[2022.10.10-07.02.11:192][166]AssetCheck: New page: Asset Save: BP_Base_GM
+[2022.10.10-07.02.11:192][166]LogContentValidation: Display: Validating Blueprint /Game/FPS/Blueprints/GameModes/BP_Base_GM.BP_Base_GM
+[2022.10.10-07.02.27:213][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.10.10-07.03.28:300][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.10.10-07.04.06:597][988]BlueprintLog: New page: Compile BP_BasePlayerController
+[2022.10.10-07.04.07:432][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.10.10-07.04.08:739][ 21]LogSavePackage: Moving output files for package: /Game/FPS/Blueprints/PlayerController/BP_BasePlayerController
+[2022.10.10-07.04.08:740][ 21]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/BP_BasePlayerController2534244448FF5E579893C0BDCB229ED5.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/PlayerController/BP_BasePlayerController.uasset'
+[2022.10.10-07.04.08:822][ 21]AssetCheck: New page: Asset Save: BP_BasePlayerController
+[2022.10.10-07.04.08:822][ 21]LogContentValidation: Display: Validating Blueprint /Game/FPS/Blueprints/PlayerController/BP_BasePlayerController.BP_BasePlayerController
+[2022.10.10-07.04.29:437][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.10.10-07.05.30:536][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.10.10-07.05.45:418][624]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FPS/Blueprints/Weapons/BP_AssaultRifle_Weapon.BP_AssaultRifle_Weapon
+[2022.10.10-07.05.45:433][624]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.10-07.05.47:506][624]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2022.10.10-07.05.47:506][624]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.005413s (0.087672s overbudget)
+[2022.10.10-07.05.52:638][ 14]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-07.05.52:638][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-07.05.53:540][ 14]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FPS/Blueprints/Weapons/BP_AssaultRifle_Weapon.BP_AssaultRifle_Weapon
+[2022.10.10-07.05.53:541][ 14]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.10-07.05.59:489][322]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-07.05.59:489][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-07.06.32:118][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.10.10-07.07.33:576][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.10.10-07.07.38:853][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-07.07.38:855][849]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map3/Sunlight_Museum_TestSpawns' took 0.072
+[2022.10.10-07.07.38:868][849]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FPS/Blueprints/GameModes/BP_Base_GS] ([2] browsable assets)...
+[2022.10.10-07.07.38:868][849]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS/Blueprints/GameModes/BP_Base_GS]
+[2022.10.10-07.07.38:907][849]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FPS/Blueprints/GameModes/BP_Base_GS_Auto4
+[2022.10.10-07.07.38:918][849]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/BP_Base_GS_Auto4791711E848BCA8F4A8F933BE2960C92F.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/Autosaves/Game/FPS/Blueprints/GameModes/BP_Base_GS_Auto4.uasset'
+[2022.10.10-07.07.38:922][849]LogFileHelpers: Auto-saving content packages took 0.062
+[2022.10.10-07.08.34:478][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-07.09.35:546][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.10.10-07.10.15:516][716]BlueprintLog: New page: Compile BP_Base_GS
+[2022.10.10-07.10.15:733][716]LogBlueprint: Error: [AssetLog] R:\SpanwLogicV7\TestV7\BuildingSpawnLogicV7\Content\FPS\Blueprints\GameModes\BP_Base_GS.uasset: [Compiler] This blueprint (self) is not a BP_Base_GM_C, therefore ' Target ' must have a connection.
+[2022.10.10-07.10.15:946][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.10.10-07.10.17:651][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FPS/Blueprints/GameModes/BP_Base_GS" FILE="../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GS.uasset" SILENT=true
+[2022.10.10-07.10.17:733][757]LogSavePackage: Moving output files for package: /Game/FPS/Blueprints/GameModes/BP_Base_GS
+[2022.10.10-07.10.17:733][757]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/BP_Base_GSDA9190BF4FC90A25FCE224AC2084D556.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GS.uasset'
+[2022.10.10-07.10.17:942][757]AssetCheck: New page: Asset Save: BP_Base_GS
+[2022.10.10-07.10.17:942][757]LogContentValidation: Display: Validating Blueprint /Game/FPS/Blueprints/GameModes/BP_Base_GS.BP_Base_GS
+[2022.10.10-07.10.36:701][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.10.10-07.11.37:822][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.10.10-07.12.23:305][130]BlueprintLog: New page: Compile BP_Base_GS
+[2022.10.10-07.12.23:691][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.10.10-07.12.24:914][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FPS/Blueprints/GameModes/BP_Base_GS" FILE="../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GS.uasset" SILENT=true
+[2022.10.10-07.12.24:952][169]LogSavePackage: Moving output files for package: /Game/FPS/Blueprints/GameModes/BP_Base_GS
+[2022.10.10-07.12.24:953][169]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/BP_Base_GSCB4F9F9845FA444532B1988A4F3F8D1E.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GS.uasset'
+[2022.10.10-07.12.25:021][169]AssetCheck: New page: Asset Save: BP_Base_GS
+[2022.10.10-07.12.25:021][169]LogContentValidation: Display: Validating Blueprint /Game/FPS/Blueprints/GameModes/BP_Base_GS.BP_Base_GS
+[2022.10.10-07.12.27:246][327]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.10-07.12.27:331][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.10.10-07.12.27:447][336]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.10-07.12.27:521][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.10.10-07.12.39:138][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.10.10-07.13.40:285][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.10.10-07.14.41:341][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-07.15.42:447][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.10.10-07.16.00:379][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.10.10-07.16.00:541][650]LogSavePackage: Moving output files for package: /Game/Map3/Sunlight_Museum_TestSpawns
+[2022.10.10-07.16.00:542][650]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/Sunlight_Museum_TestSpawns921A0FD14124F9C8929A78B69FCEC33B.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/Map3/Sunlight_Museum_TestSpawns.umap'
+[2022.10.10-07.16.00:551][650]LogFileHelpers: No new changes to save!
+[2022.10.10-07.16.00:626][650]AssetCheck: New page: Asset Save: Sunlight_Museum_TestSpawns
+[2022.10.10-07.16.00:626][650]LogContentValidation: Display: Validating World /Game/Map3/Sunlight_Museum_TestSpawns.Sunlight_Museum_TestSpawns
+[2022.10.10-07.16.07:920][495]LogEditorViewport: Clicking Background
+[2022.10.10-07.16.12:095][868]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.10-07.16.12:171][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.10.10-07.16.13:205][920]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.10-07.16.13:280][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.10.10-07.16.43:828][207]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2022.10.10-07.16.55:572][242]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.10-07.16.55:643][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-07.17.45:047][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-07.18.46:295][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.10.10-07.19.01:482][496]BlueprintLog: New page: Compile BP_Base_GS
+[2022.10.10-07.19.01:759][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.10.10-07.19.02:711][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FPS/Blueprints/GameModes/BP_Base_GS" FILE="../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GS.uasset" SILENT=true
+[2022.10.10-07.19.02:749][532]LogSavePackage: Moving output files for package: /Game/FPS/Blueprints/GameModes/BP_Base_GS
+[2022.10.10-07.19.02:750][532]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/BP_Base_GS3D489062493B8A68A4EB76B4FD8D9FC6.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GS.uasset'
+[2022.10.10-07.19.03:109][532]AssetCheck: New page: Asset Save: BP_Base_GS
+[2022.10.10-07.19.03:109][532]LogContentValidation: Display: Validating Blueprint /Game/FPS/Blueprints/GameModes/BP_Base_GS.BP_Base_GS
+[2022.10.10-07.19.47:384][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.10.10-07.20.48:475][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.10.10-07.21.29:498][844]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2022.10.10-07.21.30:630][844]LogBlueprint: Error: [AssetLog] R:\SpanwLogicV7\TestV7\BuildingSpawnLogicV7\Content\FPS\Blueprints\CharacterAndClasses\BP_PlayerCharacter.uasset: [Compiler] This blueprint (self) is not a BP_Base_GM_C, therefore ' Target ' must have a connection.
+[2022.10.10-07.21.30:630][844]LogBlueprint: Error: [AssetLog] R:\SpanwLogicV7\TestV7\BuildingSpawnLogicV7\Content\FPS\Blueprints\CharacterAndClasses\BP_PlayerCharacter.uasset: [Compiler] This blueprint (self) is not a BP_Base_GM_C, therefore ' Target ' must have a connection.
+[2022.10.10-07.21.30:902][844]LogBlueprint: Error: [AssetLog] R:\SpanwLogicV7\TestV7\BuildingSpawnLogicV7\Content\FPS\Blueprints\CharacterAndClasses\BP_PlayerCharacter.uasset: [Compiler] Variable node  Get PlayerControllerOnRespawn  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2022.10.10-07.21.30:902][844]LogBlueprint: Error: [AssetLog] R:\SpanwLogicV7\TestV7\BuildingSpawnLogicV7\Content\FPS\Blueprints\CharacterAndClasses\BP_PlayerCharacter.uasset: [Compiler] Variable node  Get ControllerOnRespawn  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2022.10.10-07.21.31:275][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.10.10-07.21.37:475][981]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2022.10.10-07.21.38:866][981]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.10.10-07.21.41:439][  4]LogSavePackage: Moving output files for package: /Game/FPS/Blueprints/CharacterAndClasses/BP_PlayerCharacter
+[2022.10.10-07.21.41:439][  4]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/BP_PlayerCharacterA3951247436BB04F543BFD8F2B80EFA4.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/CharacterAndClasses/BP_PlayerCharacter.uasset'
+[2022.10.10-07.21.41:717][  4]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2022.10.10-07.21.41:717][  4]LogContentValidation: Display: Validating Blueprint /Game/FPS/Blueprints/CharacterAndClasses/BP_PlayerCharacter.BP_PlayerCharacter
+[2022.10.10-07.21.47:251][402]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.10-07.21.47:350][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.10.10-07.21.47:455][409]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.10-07.21.47:534][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.10.10-07.21.49:584][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.10.10-07.22.50:721][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.10.10-07.23.51:794][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-07.23.54:683][264]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2022.10.10-07.23.55:853][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.10.10-07.23.57:582][295]LogSavePackage: Moving output files for package: /Game/FPS/Blueprints/CharacterAndClasses/BP_PlayerCharacter
+[2022.10.10-07.23.57:583][295]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/BP_PlayerCharacterBA02884B44D4F0A54135C4BE8ECBC188.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/CharacterAndClasses/BP_PlayerCharacter.uasset'
+[2022.10.10-07.23.57:653][295]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2022.10.10-07.23.57:653][295]LogContentValidation: Display: Validating Blueprint /Game/FPS/Blueprints/CharacterAndClasses/BP_PlayerCharacter.BP_PlayerCharacter
+[2022.10.10-07.24.17:452][171]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.10-07.24.17:529][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.10.10-07.24.17:606][177]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.10-07.24.17:680][177]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.10.10-07.24.27:984][494]LogDerivedDataCache: C:/Users/Rocco Jelsomeno/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.642 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.10-07.24.53:210][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.10.10-07.25.54:506][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-07.26.54:143][430]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2022.10.10-07.26.55:000][430]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.10.10-07.26.55:608][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.10.10-07.26.56:549][453]LogSavePackage: Moving output files for package: /Game/FPS/Blueprints/CharacterAndClasses/BP_PlayerCharacter
+[2022.10.10-07.26.56:549][453]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/BP_PlayerCharacter241D9F624ECC2219536DF6AFD4A3A396.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/CharacterAndClasses/BP_PlayerCharacter.uasset'
+[2022.10.10-07.26.56:747][453]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2022.10.10-07.26.56:747][453]LogContentValidation: Display: Validating Blueprint /Game/FPS/Blueprints/CharacterAndClasses/BP_PlayerCharacter.BP_PlayerCharacter
+[2022.10.10-07.27.56:725][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.10.10-07.28.01:760][948]BlueprintLog: New page: Compile BP_Base_GS
+[2022.10.10-07.28.02:100][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.10.10-07.28.03:301][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FPS/Blueprints/GameModes/BP_Base_GS" FILE="../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GS.uasset" SILENT=true
+[2022.10.10-07.28.03:338][981]LogSavePackage: Moving output files for package: /Game/FPS/Blueprints/GameModes/BP_Base_GS
+[2022.10.10-07.28.03:338][981]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/BP_Base_GS1F196D1C49E06FDB60E1648825C39EC0.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GS.uasset'
+[2022.10.10-07.28.03:397][981]AssetCheck: New page: Asset Save: BP_Base_GS
+[2022.10.10-07.28.03:397][981]LogContentValidation: Display: Validating Blueprint /Game/FPS/Blueprints/GameModes/BP_Base_GS.BP_Base_GS
+[2022.10.10-07.28.10:464][449]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.10-07.28.10:546][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.10.10-07.28.10:661][454]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.10-07.28.10:736][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.10.10-07.28.58:233][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.10.10-07.29.24:740][239]BlueprintLog: New page: Compile BP_Base_GS
+[2022.10.10-07.29.25:126][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.10.10-07.29.26:258][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FPS/Blueprints/GameModes/BP_Base_GS" FILE="../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GS.uasset" SILENT=true
+[2022.10.10-07.29.26:295][270]LogSavePackage: Moving output files for package: /Game/FPS/Blueprints/GameModes/BP_Base_GS
+[2022.10.10-07.29.26:295][270]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/BP_Base_GS9B53E88A44FD85323ED904B772572145.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GS.uasset'
+[2022.10.10-07.29.26:360][270]AssetCheck: New page: Asset Save: BP_Base_GS
+[2022.10.10-07.29.26:360][270]LogContentValidation: Display: Validating Blueprint /Game/FPS/Blueprints/GameModes/BP_Base_GS.BP_Base_GS
+[2022.10.10-07.29.59:437][511]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.10.10-07.31.00:494][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.10-07.32.01:647][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-07.33.03:086][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.10.10-07.34.04:483][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.10.10-07.35.05:878][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.10.10-07.36.07:066][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.10.10-07.37.08:477][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-07.38.09:859][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-07.38.59:391][800]LogSlate: Window 'BP_Base_GM' being destroyed
+[2022.10.10-07.39.11:179][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.10.10-07.40.12:628][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.10-07.41.13:888][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.10.10-07.42.15:046][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.10.10-07.43.16:165][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.10.10-07.44.17:295][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-07.45.18:596][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.10.10-07.46.19:894][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.10.10-07.47.21:014][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.10.10-07.48.22:392][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.10-07.49.23:696][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.10.10-07.50.24:798][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-07.51.26:081][351]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.10.10-07.52.27:427][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-07.53.28:770][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-07.54.29:932][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-07.55.31:105][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-07.56.32:310][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.10.10-07.57.33:504][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.10-07.58.34:683][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-07.59.35:893][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-08.00.37:079][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-08.01.38:263][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-08.02.39:457][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.10-08.03.40:611][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.10.10-08.04.41:803][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.10.10-08.05.42:996][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-08.06.44:155][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.10.10-08.07.45:347][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-08.08.46:537][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-08.09.47:757][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.10-08.10.48:919][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.10.10-08.11.50:089][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.10-08.12.51:277][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.10-08.13.52:435][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.10.10-08.14.53:586][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.10.10-08.15.54:777][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.10.10-08.16.56:007][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-08.17.57:192][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.10.10-08.18.58:380][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-08.19.59:574][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-08.21.00:808][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.10-08.22.01:927][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.10.10-08.23.03:135][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.10-08.24.04:259][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-08.24.27:240][276]LogDerivedDataCache: C:/Users/Rocco Jelsomeno/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.792 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.10-08.25.05:445][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.10.10-08.26.06:617][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.10-08.27.07:783][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.10-08.28.08:940][938]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-08.29.10:111][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.10.10-08.30.11:291][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-08.31.12:489][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-08.32.13:665][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-08.33.14:846][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-08.34.16:054][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-08.35.17:197][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-08.36.18:338][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.10-08.37.19:530][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.10.10-08.38.20:692][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.10-08.39.21:827][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-08.40.22:981][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-08.41.24:148][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.10.10-08.42.25:326][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.10-08.43.26:503][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.10.10-08.44.27:694][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-08.45.28:909][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.10-08.46.30:139][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.10-08.47.31:295][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-08.48.32:453][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-08.49.33:643][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-08.50.34:811][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.10.10-08.51.36:037][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-08.52.37:166][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.10.10-08.53.38:386][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.10-08.54.39:583][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-08.55.40:791][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-08.56.41:962][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-08.57.43:106][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.10.10-08.58.44:285][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.10-08.59.45:461][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-09.00.46:652][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-09.01.47:848][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.10-09.02.49:015][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-09.03.50:188][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-09.04.51:327][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-09.05.52:478][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-09.06.53:640][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.10.10-09.07.54:809][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.10-09.08.55:989][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.10.10-09.09.57:145][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.10-09.10.58:331][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-09.11.59:488][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-09.13.00:671][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-09.14.01:833][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-09.15.03:060][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.10.10-09.16.04:215][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-09.17.05:417][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-09.18.06:601][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-09.19.07:791][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.10-09.20.08:915][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.10.10-09.21.10:063][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-09.22.11:280][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-09.23.12:447][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-09.24.13:627][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-09.24.26:905][ 44]LogDerivedDataCache: C:/Users/Rocco Jelsomeno/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.579 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.10-09.25.14:829][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-09.26.15:974][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-09.27.17:166][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-09.28.18:360][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.10.10-09.29.19:540][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-09.30.20:738][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.10-09.31.21:952][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-09.32.23:159][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-09.33.24:321][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-09.34.25:544][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.10.10-09.35.26:685][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-09.36.27:863][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-09.37.29:048][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.10.10-09.38.30:251][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.10.10-09.39.31:411][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.10.10-09.40.32:601][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-09.41.33:814][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-09.42.34:979][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-09.43.36:189][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.10-09.44.37:358][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-09.45.38:538][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-09.46.39:706][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-09.47.40:847][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-09.48.42:028][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-09.49.43:191][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.10.10-09.50.44:356][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.10-09.51.45:491][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-09.52.46:666][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-09.53.47:855][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.10-09.54.49:055][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-09.55.50:243][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-09.56.51:407][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-09.57.52:595][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.10-09.58.53:769][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-09.59.54:914][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-10.00.56:105][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-10.01.57:291][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.10-10.02.58:421][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.10.10-10.03.59:609][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.10-10.05.00:774][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-10.06.01:930][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-10.07.03:108][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-10.08.04:319][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.10.10-10.09.05:491][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-10.10.06:651][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-10.11.07:835][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-10.12.09:060][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-10.13.10:233][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.10-10.14.11:370][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.10-10.15.12:527][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.10.10-10.16.13:757][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.10.10-10.17.14:922][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-10.18.16:084][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.10-10.19.17:267][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-10.20.18:444][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.10-10.21.19:613][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-10.22.20:775][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.10.10-10.23.21:961][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-10.24.23:116][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-10.24.26:710][812]LogDerivedDataCache: C:/Users/Rocco Jelsomeno/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.403 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.10-10.25.24:287][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-10.26.25:450][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.10.10-10.27.26:657][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-10.28.27:817][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.10.10-10.29.28:971][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-10.30.30:166][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-10.31.31:383][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.10.10-10.32.32:564][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.10.10-10.33.33:734][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-10.34.34:892][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.10-10.35.36:071][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-10.36.37:243][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-10.37.38:435][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-10.38.39:569][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.10-10.39.40:754][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.10.10-10.40.41:919][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.10-10.41.43:136][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.10.10-10.42.44:336][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.10-10.43.45:494][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-10.44.46:665][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.10.10-10.45.47:870][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-10.46.48:999][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-10.47.50:149][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-10.48.51:348][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.10-10.49.52:529][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-10.50.47:598][541]LogHttp: Warning: 0000047792DB7D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B681E6053-4C59-F933-91FE-AB8C175F9404%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=a04ce4634d26a2b9fc3de7b58134c5d5%7Ca18d6d50461341ba807de369e31ca694%7C336aa67d-b97b-4b20-85a2-3839cd28e368&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.10-10.50.47:598][541]LogHttp: Warning: 0000047792DB7D00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.10.10-10.50.47:598][541]LogHttp: Warning: 0000047792DB7D00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x476be8d0150 [can pipeline])
+[2022.10.10-10.50.47:598][541]LogHttp: Warning: 0000047792DB7D00: libcurl info message cache 1 (Re-using existing connection! (#3) with host datarouter.ol.epicgames.com)
+[2022.10.10-10.50.47:598][541]LogHttp: Warning: 0000047792DB7D00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.85.104.166) port 443 (#3))
+[2022.10.10-10.50.47:598][541]LogHttp: Warning: 0000047792DB7D00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.10.10-10.50.47:598][541]LogHttp: Warning: 0000047792DB7D00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.10.10-10.50.47:598][541]LogHttp: Warning: 0000047792DB7D00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.10.10-10.50.47:598][541]LogHttp: Warning: 0000047792DB7D00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.10.10-10.50.47:598][541]LogHttp: Warning: 0000047792DB7D00: libcurl info message cache 7 (Closing connection 3)
+[2022.10.10-10.50.47:598][541]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B681E6053-4C59-F933-91FE-AB8C175F9404%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=a04ce4634d26a2b9fc3de7b58134c5d5%7Ca18d6d50461341ba807de369e31ca694%7C336aa67d-b97b-4b20-85a2-3839cd28e368&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.10-10.50.53:694][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.10.10-10.51.54:878][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-10.52.56:097][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-10.53.57:269][107]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-10.54.58:485][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.10.10-10.55.59:643][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-10.57.00:825][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-10.58.01:989][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.10-10.59.03:199][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-11.00.04:349][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-11.01.05:521][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-11.02.06:729][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-11.03.07:903][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.10.10-11.04.09:147][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.10.10-11.05.10:271][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-11.06.11:420][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-11.07.12:561][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.10.10-11.08.13:762][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-11.09.15:162][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-11.10.16:144][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-11.11.17:327][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.10-11.12.18:480][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.10.10-11.13.19:675][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.10.10-11.14.20:857][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.10-11.15.22:017][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-11.16.23:173][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-11.17.24:354][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-11.18.25:535][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-11.19.26:715][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.10.10-11.20.27:899][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-11.21.29:059][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.10.10-11.22.30:270][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-11.23.31:437][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-11.24.29:836][590]LogDerivedDataCache: C:/Users/Rocco Jelsomeno/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.243 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.10-11.24.32:594][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-11.25.33:801][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-11.26.34:976][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-11.27.36:152][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-11.28.37:337][329]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-11.29.38:525][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-11.30.39:689][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.10.10-11.31.40:890][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.10-11.32.42:097][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-11.33.43:282][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-11.34.44:452][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-11.35.45:584][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-11.36.46:734][793]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-11.37.47:944][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-11.38.49:097][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-11.39.50:332][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-11.40.51:507][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-11.41.52:706][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-11.42.53:862][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-11.43.55:034][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-11.44.56:229][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-11.45.57:400][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-11.46.58:541][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-11.47.59:694][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.10-11.49.00:881][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-11.50.02:045][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-11.51.03:203][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-11.52.04:363][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-11.53.05:540][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.10-11.54.06:767][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-11.55.07:874][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.10-11.56.09:073][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-11.57.10:257][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.10-11.58.11:453][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.10-11.59.12:641][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.10.10-12.00.13:794][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.10-12.01.14:984][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-12.02.16:185][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-12.03.17:378][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-12.04.18:544][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-12.05.19:769][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-12.06.20:935][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.10-12.07.22:143][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-12.08.23:315][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.10.10-12.09.24:485][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-12.10.25:645][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-12.11.26:805][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-12.12.27:981][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.10-12.13.29:177][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.10-12.14.30:320][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.10.10-12.15.31:491][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-12.16.32:697][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.10-12.17.33:886][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.10.10-12.18.35:071][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.10-12.19.36:267][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-12.20.37:471][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-12.21.38:691][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.10.10-12.22.39:867][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.10-12.23.41:031][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.10.10-12.24.30:082][359]LogDerivedDataCache: C:/Users/Rocco Jelsomeno/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.608 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.10-12.24.42:185][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-12.25.43:365][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-12.26.44:525][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-12.27.45:704][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.10.10-12.28.46:870][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.10.10-12.29.48:078][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-12.30.49:228][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-12.31.50:381][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.10.10-12.32.51:594][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-12.33.52:780][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-12.34.53:960][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-12.35.55:124][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-12.36.49:809][572]LogHttp: Warning: 0000047792DBAF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B681E6053-4C59-F933-91FE-AB8C175F9404%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=a04ce4634d26a2b9fc3de7b58134c5d5%7Ca18d6d50461341ba807de369e31ca694%7C336aa67d-b97b-4b20-85a2-3839cd28e368&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.10-12.36.49:809][572]LogHttp: Warning: 0000047792DBAF00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.10.10-12.36.49:809][572]LogHttp: Warning: 0000047792DBAF00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x476be8d0540 [can pipeline])
+[2022.10.10-12.36.49:809][572]LogHttp: Warning: 0000047792DBAF00: libcurl info message cache 1 (Re-using existing connection! (#4) with host datarouter.ol.epicgames.com)
+[2022.10.10-12.36.49:809][572]LogHttp: Warning: 0000047792DBAF00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.173.235.236) port 443 (#4))
+[2022.10.10-12.36.49:809][572]LogHttp: Warning: 0000047792DBAF00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.10.10-12.36.49:809][572]LogHttp: Warning: 0000047792DBAF00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.10.10-12.36.49:810][572]LogHttp: Warning: 0000047792DBAF00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.10.10-12.36.49:810][572]LogHttp: Warning: 0000047792DBAF00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.10.10-12.36.49:810][572]LogHttp: Warning: 0000047792DBAF00: libcurl info message cache 7 (Closing connection 4)
+[2022.10.10-12.36.49:810][572]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B681E6053-4C59-F933-91FE-AB8C175F9404%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=a04ce4634d26a2b9fc3de7b58134c5d5%7Ca18d6d50461341ba807de369e31ca694%7C336aa67d-b97b-4b20-85a2-3839cd28e368&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.10-12.36.56:234][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.10-12.37.28:582][688]LogHttp: Warning: 0000047792DB5F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B681E6053-4C59-F933-91FE-AB8C175F9404%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=a04ce4634d26a2b9fc3de7b58134c5d5%7Ca18d6d50461341ba807de369e31ca694%7C336aa67d-b97b-4b20-85a2-3839cd28e368&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.10-12.37.28:582][688]LogHttp: Warning: 0000047792DB5F00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.10.10-12.37.28:582][688]LogHttp: Warning: 0000047792DB5F00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.10.10-12.37.28:582][688]LogHttp: Warning: 0000047792DB5F00: libcurl info message cache 1 (Closing connection 5)
+[2022.10.10-12.37.28:582][688]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B681E6053-4C59-F933-91FE-AB8C175F9404%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=a04ce4634d26a2b9fc3de7b58134c5d5%7Ca18d6d50461341ba807de369e31ca694%7C336aa67d-b97b-4b20-85a2-3839cd28e368&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.10-12.37.57:413][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.10.10-12.38.28:415][867]LogHttp: Warning: 0000047792DB2800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B681E6053-4C59-F933-91FE-AB8C175F9404%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=a04ce4634d26a2b9fc3de7b58134c5d5%7Ca18d6d50461341ba807de369e31ca694%7C336aa67d-b97b-4b20-85a2-3839cd28e368&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.10-12.38.28:415][867]LogHttp: Warning: 0000047792DB2800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.10.10-12.38.28:415][867]LogHttp: Warning: 0000047792DB2800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.10.10-12.38.28:415][867]LogHttp: Warning: 0000047792DB2800: libcurl info message cache 1 (Closing connection 6)
+[2022.10.10-12.38.28:415][867]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B681E6053-4C59-F933-91FE-AB8C175F9404%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=a04ce4634d26a2b9fc3de7b58134c5d5%7Ca18d6d50461341ba807de369e31ca694%7C336aa67d-b97b-4b20-85a2-3839cd28e368&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.10-12.38.58:565][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-12.39.59:763][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-12.41.00:926][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-12.42.02:111][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-12.43.03:287][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.10.10-12.44.04:485][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-12.45.05:687][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-12.46.06:833][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-12.47.07:957][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.10-12.48.09:144][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.10.10-12.49.10:340][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-12.50.11:492][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-12.51.12:687][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.10-12.52.13:828][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-12.53.14:997][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.10.10-12.54.16:184][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-12.55.17:361][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.10.10-12.56.18:518][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-12.57.19:710][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.10.10-12.58.20:894][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.10.10-12.59.22:081][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-13.00.23:251][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-13.01.24:432][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-13.02.25:587][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.10.10-13.03.26:770][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.10-13.04.27:916][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-13.05.29:090][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-13.06.30:243][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-13.07.31:422][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.10-13.08.32:594][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-13.09.33:769][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.10-13.10.34:959][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.10-13.11.36:122][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.10-13.12.37:286][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.10.10-13.13.38:436][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-13.14.39:583][361]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-13.15.40:768][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-13.16.41:982][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-13.17.43:149][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-13.18.44:332][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.10-13.19.45:483][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-13.20.46:625][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-13.21.47:846][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-13.22.49:079][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-13.23.50:231][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.10.10-13.24.29:284][126]LogDerivedDataCache: C:/Users/Rocco Jelsomeno/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.859 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.10-13.24.51:426][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-13.25.52:594][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-13.26.53:753][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.10.10-13.27.54:950][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-13.28.56:139][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-13.29.57:335][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-13.30.58:527][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-13.31.59:720][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-13.33.00:858][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.10.10-13.34.02:016][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.10.10-13.35.03:217][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-13.36.04:389][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-13.37.05:517][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.10-13.38.06:679][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-13.39.07:846][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-13.40.09:013][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.10.10-13.41.10:145][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.10-13.42.11:313][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-13.43.12:493][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-13.44.13:642][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-13.45.14:829][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.10-13.46.16:077][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.10-13.47.17:272][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-13.48.18:440][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.10-13.49.19:608][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.10.10-13.50.20:770][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.10.10-13.51.21:925][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-13.52.23:083][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-13.53.24:248][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-13.54.25:414][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.10-13.55.26:611][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-13.56.27:802][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-13.57.29:005][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.10-13.58.30:206][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.10.10-13.59.31:377][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.10-14.00.32:531][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.10.10-14.01.33:751][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.10-14.02.34:922][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-14.03.36:104][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-14.04.37:315][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-14.05.38:536][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.10-14.06.39:673][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-14.07.40:824][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-14.08.41:986][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.10-14.09.43:176][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.10-14.10.44:385][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-14.11.45:518][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.10-14.12.46:669][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-14.13.47:820][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-14.14.48:980][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.10-14.15.50:169][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.10-14.16.51:340][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-14.17.52:525][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-14.18.53:688][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.10.10-14.19.54:870][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-14.20.56:038][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.10-14.21.33:382][369]LogHttp: Warning: 0000047792DB7300: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B681E6053-4C59-F933-91FE-AB8C175F9404%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=a04ce4634d26a2b9fc3de7b58134c5d5%7Ca18d6d50461341ba807de369e31ca694%7C336aa67d-b97b-4b20-85a2-3839cd28e368&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.10-14.21.33:382][369]LogHttp: Warning: 0000047792DB7300: request failed, libcurl error: 0 (No error)
+[2022.10.10-14.21.33:382][369]LogHttp: Warning: 0000047792DB7300: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x476be8d0510 [can pipeline])
+[2022.10.10-14.21.33:382][369]LogHttp: Warning: 0000047792DB7300: libcurl info message cache 1 (Re-using existing connection! (#7) with host datarouter.ol.epicgames.com)
+[2022.10.10-14.21.33:382][369]LogHttp: Warning: 0000047792DB7300: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.210.52.38) port 443 (#7))
+[2022.10.10-14.21.33:382][369]LogHttp: Warning: 0000047792DB7300: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.10.10-14.21.33:382][369]LogHttp: Warning: 0000047792DB7300: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.10.10-14.21.33:382][369]LogHttp: Warning: 0000047792DB7300: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.10.10-14.21.33:382][369]LogHttp: Warning: 0000047792DB7300: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.10.10-14.21.33:382][369]LogHttp: Warning: 0000047792DB7300: libcurl info message cache 7 (Closing connection 7)
+[2022.10.10-14.21.33:382][369]LogHttp: Warning: 0000047792DB7300: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.10.10-14.21.33:382][369]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B681E6053-4C59-F933-91FE-AB8C175F9404%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=a04ce4634d26a2b9fc3de7b58134c5d5%7Ca18d6d50461341ba807de369e31ca694%7C336aa67d-b97b-4b20-85a2-3839cd28e368&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.10-14.21.57:193][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.10-14.22.58:403][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.10-14.23.59:562][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-14.24.27:266][889]LogDerivedDataCache: C:/Users/Rocco Jelsomeno/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.955 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.10-14.25.00:759][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-14.26.01:887][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.10-14.27.03:082][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-14.28.04:236][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-14.29.05:431][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.10.10-14.30.06:639][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-14.31.07:801][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-14.32.08:997][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.10-14.33.10:157][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-14.34.11:316][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-14.35.12:488][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-14.36.13:615][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.10-14.37.14:835][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-14.38.16:052][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.10.10-14.39.17:209][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.10.10-14.40.18:371][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.10.10-14.41.19:540][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-14.42.20:646][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.10-14.43.21:814][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-14.44.22:993][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-14.45.24:179][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-14.46.25:353][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-14.47.26:527][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.10.10-14.48.27:768][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.10-14.49.28:929][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.10-14.50.30:135][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-14.51.31:308][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.10.10-14.52.32:457][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-14.53.33:621][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.10.10-14.54.34:838][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-14.55.36:011][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.10-14.56.37:189][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-14.57.38:306][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-14.58.39:473][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.10.10-14.59.40:665][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.10.10-15.00.41:811][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.10-15.01.43:027][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.10.10-15.02.44:309][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-15.03.45:683][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-15.04.47:065][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-15.05.48:456][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-15.06.48:249][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-15.07.49:355][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.10-15.08.50:484][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-15.09.51:587][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-15.10.52:996][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-15.11.54:403][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-15.12.55:504][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-15.13.56:670][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-15.14.57:853][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-15.15.59:061][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-15.17.00:277][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-15.18.01:488][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-15.19.02:652][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-15.20.03:768][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-15.21.04:898][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-15.22.06:078][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-15.23.07:227][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-15.24.08:395][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-15.24.27:401][662]LogDerivedDataCache: C:/Users/Rocco Jelsomeno/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.013 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.10-15.25.09:553][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-15.26.10:739][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-15.27.11:983][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-15.28.13:349][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-15.29.14:670][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-15.30.16:023][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-15.31.17:362][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-15.32.18:724][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-15.33.20:070][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-15.34.21:437][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-15.35.22:804][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-15.36.24:065][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-15.37.25:395][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-15.38.26:742][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-15.39.28:116][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-15.40.29:536][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-15.41.30:865][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-15.42.32:165][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-15.43.33:542][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-15.44.34:800][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.10-15.45.36:123][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-15.46.37:413][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-15.47.38:721][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.10-15.48.40:078][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-15.49.41:422][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-15.50.42:756][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-15.51.44:116][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-15.52.45:477][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.10-15.53.46:780][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-15.54.48:123][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.10-15.55.49:446][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-15.56.50:751][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-15.57.52:075][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-15.58.53:400][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-15.59.54:655][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-16.00.55:996][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-16.01.57:380][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-16.02.58:688][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-16.04.00:016][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.10-16.05.01:393][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-16.06.02:767][107]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-16.07.04:124][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-16.08.05:445][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.10.10-16.09.06:827][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-16.10.08:171][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-16.11.09:536][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-16.12.10:897][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-16.13.12:180][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-16.13.31:893][448]LogHttp: Warning: 0000047792DB2300: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B681E6053-4C59-F933-91FE-AB8C175F9404%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=a04ce4634d26a2b9fc3de7b58134c5d5%7Ca18d6d50461341ba807de369e31ca694%7C336aa67d-b97b-4b20-85a2-3839cd28e368&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.10-16.13.31:893][448]LogHttp: Warning: 0000047792DB2300: request failed, libcurl error: 0 (No error)
+[2022.10.10-16.13.31:893][448]LogHttp: Warning: 0000047792DB2300: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x476be8d0030 [can pipeline])
+[2022.10.10-16.13.31:893][448]LogHttp: Warning: 0000047792DB2300: libcurl info message cache 1 (Re-using existing connection! (#8) with host datarouter.ol.epicgames.com)
+[2022.10.10-16.13.31:893][448]LogHttp: Warning: 0000047792DB2300: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.192.202.247) port 443 (#8))
+[2022.10.10-16.13.31:893][448]LogHttp: Warning: 0000047792DB2300: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.10.10-16.13.31:893][448]LogHttp: Warning: 0000047792DB2300: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.10.10-16.13.31:893][448]LogHttp: Warning: 0000047792DB2300: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.10.10-16.13.31:893][448]LogHttp: Warning: 0000047792DB2300: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.10.10-16.13.31:893][448]LogHttp: Warning: 0000047792DB2300: libcurl info message cache 7 (Closing connection 8)
+[2022.10.10-16.13.31:893][448]LogHttp: Warning: 0000047792DB2300: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.10.10-16.13.31:893][448]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B681E6053-4C59-F933-91FE-AB8C175F9404%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=a04ce4634d26a2b9fc3de7b58134c5d5%7Ca18d6d50461341ba807de369e31ca694%7C336aa67d-b97b-4b20-85a2-3839cd28e368&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.10-16.14.13:516][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-16.15.14:906][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-16.16.16:315][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-16.17.17:517][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-16.18.18:867][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.10-16.19.20:201][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-16.20.21:587][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-16.21.22:938][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-16.22.24:298][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-16.23.25:697][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-16.24.27:061][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-16.24.32:689][418]LogDerivedDataCache: C:/Users/Rocco Jelsomeno/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:09.206 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.10-16.25.28:460][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.10-16.26.29:837][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-16.27.31:211][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-16.28.32:548][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-16.29.33:960][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-16.30.35:348][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-16.31.36:712][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-16.32.38:136][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-16.33.39:522][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.10-16.34.40:937][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-16.35.42:344][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-16.36.43:611][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-16.37.45:007][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-16.38.46:007][962]LogHttp: Warning: 0000047792DB6900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B681E6053-4C59-F933-91FE-AB8C175F9404%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=a04ce4634d26a2b9fc3de7b58134c5d5%7Ca18d6d50461341ba807de369e31ca694%7C336aa67d-b97b-4b20-85a2-3839cd28e368&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.10-16.38.46:007][962]LogHttp: Warning: 0000047792DB6900: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.10.10-16.38.46:007][962]LogHttp: Warning: 0000047792DB6900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x476be8d0e40 [can pipeline])
+[2022.10.10-16.38.46:007][962]LogHttp: Warning: 0000047792DB6900: libcurl info message cache 1 (Re-using existing connection! (#9) with host datarouter.ol.epicgames.com)
+[2022.10.10-16.38.46:007][962]LogHttp: Warning: 0000047792DB6900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.223.142.185) port 443 (#9))
+[2022.10.10-16.38.46:008][962]LogHttp: Warning: 0000047792DB6900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.10.10-16.38.46:008][962]LogHttp: Warning: 0000047792DB6900: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.10.10-16.38.46:008][962]LogHttp: Warning: 0000047792DB6900: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.10.10-16.38.46:008][962]LogHttp: Warning: 0000047792DB6900: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.10.10-16.38.46:008][962]LogHttp: Warning: 0000047792DB6900: libcurl info message cache 7 (Closing connection 9)
+[2022.10.10-16.38.46:008][962]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B681E6053-4C59-F933-91FE-AB8C175F9404%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=a04ce4634d26a2b9fc3de7b58134c5d5%7Ca18d6d50461341ba807de369e31ca694%7C336aa67d-b97b-4b20-85a2-3839cd28e368&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.10-16.38.46:403][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-16.39.47:769][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.10.10-16.40.49:176][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-16.41.50:505][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-16.42.51:904][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.10-16.43.53:272][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.10-16.44.54:649][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-16.45.55:975][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.10-16.46.57:287][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.10-16.47.58:669][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-16.48.59:924][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-16.50.01:223][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-16.51.02:595][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-16.52.04:017][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-16.53.05:434][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-16.54.06:814][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-16.55.08:173][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.10-16.56.09:527][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-16.57.10:887][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-16.58.12:252][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.10-16.59.13:660][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-17.00.15:053][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.10-17.01.16:407][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-17.02.17:767][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-17.02.48:534][264]LogHttp: Warning: 0000047792DB2300: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B681E6053-4C59-F933-91FE-AB8C175F9404%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=a04ce4634d26a2b9fc3de7b58134c5d5%7Ca18d6d50461341ba807de369e31ca694%7C336aa67d-b97b-4b20-85a2-3839cd28e368&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.10-17.02.48:548][264]LogHttp: Warning: 0000047792DB2300: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.10.10-17.02.48:548][264]LogHttp: Warning: 0000047792DB2300: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x476be8d00f0 [can pipeline])
+[2022.10.10-17.02.48:548][264]LogHttp: Warning: 0000047792DB2300: libcurl info message cache 1 (Re-using existing connection! (#10) with host datarouter.ol.epicgames.com)
+[2022.10.10-17.02.48:548][264]LogHttp: Warning: 0000047792DB2300: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.234.147.115) port 443 (#10))
+[2022.10.10-17.02.48:548][264]LogHttp: Warning: 0000047792DB2300: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.10.10-17.02.48:548][264]LogHttp: Warning: 0000047792DB2300: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.10.10-17.02.48:548][264]LogHttp: Warning: 0000047792DB2300: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.10.10-17.02.48:548][264]LogHttp: Warning: 0000047792DB2300: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.10.10-17.02.48:548][264]LogHttp: Warning: 0000047792DB2300: libcurl info message cache 7 (Closing connection 10)
+[2022.10.10-17.02.48:548][264]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B681E6053-4C59-F933-91FE-AB8C175F9404%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=a04ce4634d26a2b9fc3de7b58134c5d5%7Ca18d6d50461341ba807de369e31ca694%7C336aa67d-b97b-4b20-85a2-3839cd28e368&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.10-17.03.19:125][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-17.04.20:488][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-17.05.21:865][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-17.05.31:859][751]LogHttp: Warning: 0000047792DB9B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B681E6053-4C59-F933-91FE-AB8C175F9404%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=a04ce4634d26a2b9fc3de7b58134c5d5%7Ca18d6d50461341ba807de369e31ca694%7C336aa67d-b97b-4b20-85a2-3839cd28e368&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.10-17.05.31:859][751]LogHttp: Warning: 0000047792DB9B00: request failed, libcurl error: 0 (No error)
+[2022.10.10-17.05.31:859][751]LogHttp: Warning: 0000047792DB9B00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x476be8d0690 [can pipeline])
+[2022.10.10-17.05.31:859][751]LogHttp: Warning: 0000047792DB9B00: libcurl info message cache 1 (Re-using existing connection! (#11) with host datarouter.ol.epicgames.com)
+[2022.10.10-17.05.31:859][751]LogHttp: Warning: 0000047792DB9B00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.172.92.181) port 443 (#11))
+[2022.10.10-17.05.31:859][751]LogHttp: Warning: 0000047792DB9B00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.10.10-17.05.31:859][751]LogHttp: Warning: 0000047792DB9B00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.10.10-17.05.31:859][751]LogHttp: Warning: 0000047792DB9B00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.10.10-17.05.31:859][751]LogHttp: Warning: 0000047792DB9B00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.10.10-17.05.31:859][751]LogHttp: Warning: 0000047792DB9B00: libcurl info message cache 7 (Closing connection 11)
+[2022.10.10-17.05.31:859][751]LogHttp: Warning: 0000047792DB9B00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.10.10-17.05.31:859][751]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B681E6053-4C59-F933-91FE-AB8C175F9404%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=a04ce4634d26a2b9fc3de7b58134c5d5%7Ca18d6d50461341ba807de369e31ca694%7C336aa67d-b97b-4b20-85a2-3839cd28e368&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.10-17.06.23:247][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-17.07.24:572][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-17.08.25:931][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-17.09.27:297][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-17.10.28:619][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.10-17.11.29:987][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-17.12.31:400][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.10-17.13.32:772][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-17.14.34:155][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-17.15.35:512][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-17.16.36:913][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-17.17.38:259][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-17.18.39:609][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-17.19.40:937][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.10-17.20.42:300][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-17.21.43:722][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.10.10-17.22.45:054][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.10-17.23.46:395][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-17.24.27:875][139]LogDerivedDataCache: C:/Users/Rocco Jelsomeno/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.554 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.10-17.24.47:723][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.10.10-17.25.49:117][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-17.26.50:516][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-17.27.51:864][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.10-17.28.53:150][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-17.29.54:531][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.10-17.30.55:916][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-17.31.57:338][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-17.32.58:735][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-17.34.00:079][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-17.35.01:414][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-17.36.02:695][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-17.37.04:069][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-17.38.05:449][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-17.39.06:787][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-17.40.08:163][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.10-17.41.09:514][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-17.42.10:906][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-17.43.12:248][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-17.44.13:667][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.10-17.45.15:031][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-17.46.16:422][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.10.10-17.47.17:791][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-17.48.19:209][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-17.49.20:620][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-17.50.21:974][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-17.51.23:379][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-17.52.24:772][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-17.53.26:141][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-17.54.27:259][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-17.55.28:641][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-17.56.29:988][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-17.57.31:381][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-17.58.32:730][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.10-17.59.34:084][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.10-18.00.35:204][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-18.01.36:609][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-18.02.38:022][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.10.10-18.03.39:380][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-18.04.40:786][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-18.05.42:121][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-18.06.43:454][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-18.07.44:858][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-18.08.46:261][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-18.09.47:610][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.10-18.10.48:976][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.10-18.11.50:413][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-18.12.51:831][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-18.13.53:225][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.10.10-18.14.54:380][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.10.10-18.15.55:448][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-18.16.56:832][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-18.17.58:140][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.10.10-18.18.59:524][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.10.10-18.20.00:838][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-18.21.02:129][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-18.22.03:309][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-18.23.04:396][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-18.24.05:499][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-18.24.30:778][302]LogDerivedDataCache: C:/Users/Rocco Jelsomeno/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.515 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.10-18.25.06:750][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.10.10-18.26.08:140][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-18.27.09:551][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.10.10-18.28.10:819][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-18.29.12:108][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-18.30.13:369][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.10-18.31.14:626][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.10.10-18.32.15:935][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-18.33.17:166][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-18.34.18:450][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-18.35.19:670][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.10.10-18.36.20:849][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.10.10-18.37.22:097][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-18.38.23:315][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-18.39.24:624][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-18.40.25:860][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-18.41.27:119][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.10.10-18.42.28:360][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.10.10-18.43.29:635][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.10.10-18.44.30:916][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-18.45.32:151][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-18.46.33:474][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-18.47.34:732][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.10.10-18.48.35:986][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.10-18.49.37:185][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-18.50.38:508][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-18.51.39:765][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-18.52.40:919][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-18.53.42:115][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.10.10-18.54.43:446][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-18.55.44:870][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-18.56.46:186][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.10-18.57.47:470][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-18.58.48:715][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.10.10-18.59.49:982][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-19.00.51:253][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-19.01.52:569][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-19.02.53:894][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-19.03.55:233][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.10.10-19.04.56:552][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-19.05.57:920][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-19.06.59:208][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.10-19.08.00:350][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.10.10-19.09.01:407][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.10.10-19.10.02:710][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.10.10-19.11.03:943][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-19.12.05:188][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.10.10-19.13.06:457][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-19.14.07:682][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-19.15.08:947][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.10.10-19.16.10:239][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.10.10-19.17.11:524][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.10-19.18.12:899][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-19.19.14:142][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-19.20.15:375][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-19.21.16:609][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.10.10-19.22.17:836][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-19.23.19:145][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-19.24.20:436][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-19.24.27:394][ 13]LogDerivedDataCache: C:/Users/Rocco Jelsomeno/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.042 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.10-19.25.21:693][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-19.26.22:984][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.10.10-19.27.24:232][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.10.10-19.28.25:490][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.10-19.29.26:773][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-19.30.28:034][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-19.31.29:302][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-19.32.30:573][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.10.10-19.33.31:814][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-19.34.33:085][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-19.35.34:350][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-19.36.35:647][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-19.37.36:932][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.10-19.38.38:159][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.10.10-19.39.39:297][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-19.40.40:737][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.10.10-19.41.42:083][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-19.42.43:191][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-19.43.44:590][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.10.10-19.44.45:956][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.10-19.45.47:277][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-19.46.48:532][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-19.47.49:913][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-19.48.51:289][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-19.49.52:581][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.10.10-19.50.53:972][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-19.51.55:378][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-19.52.56:695][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-19.53.58:097][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-19.54.59:497][938]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-19.56.00:903][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.10.10-19.57.02:333][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-19.58.03:666][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-19.59.05:029][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-20.00.06:380][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-20.01.07:765][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-20.02.09:072][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-20.03.10:402][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-20.04.11:703][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-20.05.13:039][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-20.06.14:400][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.10-20.07.15:761][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-20.08.17:144][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-20.09.18:299][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.10.10-20.10.19:624][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-20.11.20:789][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-20.12.22:171][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-20.13.23:538][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.10.10-20.14.24:943][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-20.15.26:299][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.10-20.16.27:664][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.10.10-20.17.29:092][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-20.18.30:498][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-20.19.31:816][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-20.20.33:230][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-20.21.34:649][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-20.22.35:821][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.10.10-20.23.37:250][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-20.24.28:802][214]LogDerivedDataCache: C:/Users/Rocco Jelsomeno/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.367 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.10-20.24.38:607][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-20.25.39:973][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-20.26.41:357][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-20.27.42:667][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-20.28.43:987][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.10.10-20.29.45:360][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-20.30.46:723][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-20.31.48:133][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-20.32.49:459][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-20.33.50:822][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.10-20.34.52:428][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-20.35.53:462][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-20.36.54:817][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-20.37.56:230][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-20.38.57:533][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.10-20.39.58:703][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-20.40.59:957][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-20.42.01:200][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-20.43.02:310][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.10-20.44.03:616][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.10.10-20.45.04:827][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.10.10-20.46.06:012][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.10-20.47.07:324][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.10.10-20.48.08:462][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-20.49.09:750][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-20.50.10:893][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.10.10-20.51.12:075][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.10.10-20.51.13:786][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.10-20.51.13:793][335]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map3/Sunlight_Museum_TestSpawns' took 0.076
+[2022.10.10-20.51.13:807][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FPS/Blueprints/GameModes/BP_Base_GS] ([2] browsable assets)...
+[2022.10.10-20.51.13:807][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS/Blueprints/GameModes/BP_Base_GS]
+[2022.10.10-20.51.13:958][335]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FPS/Blueprints/GameModes/BP_Base_GS_Auto5
+[2022.10.10-20.51.13:964][335]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/BP_Base_GS_Auto5EF0E7F8E4666B134005E978215894533.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/Autosaves/Game/FPS/Blueprints/GameModes/BP_Base_GS_Auto5.uasset'
+[2022.10.10-20.51.13:965][335]LogFileHelpers: Auto-saving content packages took 0.171
+[2022.10.10-20.52.13:495][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.10-20.53.14:696][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.10-20.54.15:938][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.10-20.55.17:305][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.10.10-20.56.18:416][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.10-20.57.01:634][728]LogUObjectHash: Compacting FUObjectHashTables data took  10.55ms
+[2022.10.10-20.57.01:878][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FPS/Blueprints/GameModes/BP_Base_GS" FILE="../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GS.uasset" SILENT=true
+[2022.10.10-20.57.01:916][728]LogSavePackage: Moving output files for package: /Game/FPS/Blueprints/GameModes/BP_Base_GS
+[2022.10.10-20.57.01:916][728]LogSavePackage: Moving '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Saved/BP_Base_GSA73E74BE440B136A2F58459D1881A4BE.tmp' to '../../../../SpanwLogicV7/TestV7/BuildingSpawnLogicV7/Content/FPS/Blueprints/GameModes/BP_Base_GS.uasset'
+[2022.10.10-20.57.01:983][728]AssetCheck: New page: Asset Save: BP_Base_GS
+[2022.10.10-20.57.01:983][728]LogContentValidation: Display: Validating Blueprint /Game/FPS/Blueprints/GameModes/BP_Base_GS.BP_Base_GS
+[2022.10.10-20.57.19:714][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
